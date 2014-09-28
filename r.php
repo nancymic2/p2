@@ -33,6 +33,7 @@ $usesymb = $_POST['yessymb'];
 /* loop through printing words until reaching number of words requested */
 
 echo '<h1>';
+echo 'Your password is: <br>';
  
 for ($i = 1; $i <= $numofwords; $i++) 
 {
@@ -61,6 +62,6 @@ if ($usesymb == "1")  //use symbol if user chooses
 
 echo '</h1>';
 
-echo '<a href="index.php">Go Back</a>';
+echo '<a href="index.php"><img src="images/get.png"></a>';
 
 ?>
