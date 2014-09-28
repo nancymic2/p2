@@ -19,6 +19,10 @@ if ($numofwords < 1)  //handle zero words
    header ('location: index.php'); //user is redirected to form
 }
 
+if ($numofwords > 9)  //handle many words
+{
+   header ('location: index.php'); //user is redirected to form
+}
 
 /* get yes or no from checkbox */
 $usenumber = $_POST['yesnumb'];
@@ -56,5 +60,7 @@ if ($usesymb == "1")  //use symbol if user chooses
 }
 
 echo '</h1>';
+
+echo '<a href="index.php">Go Back</a>';
 
 ?>
