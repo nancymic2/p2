@@ -87,6 +87,16 @@ if ($usesymb == "1")  //use symbol if user chooses
 
 echo '</h1>';
 
-echo '<a href="index.php"><img src="images/get.png"></a>';
+//echo '<a href="index.php"><img src="images/get.png"></a>';
 
-?>
+
+////////////////////////////////
+
+echo '<script>';
+ echo 'function goBack() {';
+echo 'window.history.back()';
+echo ' }';
+ echo '</script>';
+
+
+echo '<button onclick="goBack()">Get another</button>';
