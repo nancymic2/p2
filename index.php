@@ -12,6 +12,15 @@
 
     Include special character? <input type="checkbox" name="yessymb" value="1"> <br>
 
+    <input type="hidden" name="yescap" value="0">
+
+    Make all caps? <input type="checkbox" name="yescap" value="1"> <br>
+
+    <input type="hidden" name="yesspace" value="0">
+
+  Seperate with spaces instead of dashes? <input type="checkbox" name="yesspace" value="1"> <br>
+
+
     <input type="submit">
 </form>
 

@@ -30,6 +30,13 @@ $usenumber = $_POST['yesnumb'];
 /* get yes or no from checkbox */
 $usesymb = $_POST['yessymb'];
 
+/* get yes or no from checkbox */
+$usecap = $_POST['yescap'];
+
+/* get yes or no from checkbox */
+$yesspace = $_POST['yesspace'];
+
+
 /* loop through printing words until reaching number of words requested */
 
 echo '<h1>';
@@ -38,25 +45,43 @@ echo 'Your password is: <br>';
 for ($i = 1; $i <= $numofwords; $i++) 
 {
     $rmot = rand(0, 355);
+///////////////////////////////////////////
+$theword=$mots[$rmot];
 
-    echo $mots[$rmot];
+if ($usecap == 1)
+{
+$motcap = (strtoupper($theword)); 
+echo $motcap;
+}
+else
+echo $theword;
 
+if ($yesspace == "1")
+{
+$seperator = " ";
+}
+else
+{
+$seperator = "-";
+}
+
+////////////////////////////////////////
     if ($i < $numofwords)
         {
-        echo '-';
+        echo $seperator;
         }
 }
 
 
 if ($usenumber == "1") //use number if user chooses
 {
-    echo '-';
+    echo $seperator;
     echo $numbs;
 }
 
 if ($usesymb == "1")  //use symbol if user chooses
 {
-    echo '-';
+    echo $seperator;
     echo $symbs[$rsymbs]; 
 }
 
