@@ -1,8 +1,23 @@
-<html>
-<body style="font-size: 28">
+<!doctype html> 
+ <html lang="en"> 
 
+ <head> 
+ <meta charset="utf-8"> 
+ <title>Nancy Michell</title> 
+ <link rel="stylesheet" type="text/css" href="css/css.css"> 
+ </head> 
+ <body> 
+
+<div id="div1">
+
+
+<h2>xkcd passwords</h2>
+
+</div>
+
+<img src="images/chandelier.gif" alt="light" id="light">
 <form action="r.php" method="post">
-    Number of Words: <input type="number" name="numwords" maxlength=1 size="1"><br>
+    Number of Words: <input type="text" name="numwords" maxlength=1 size="1"><br>
 
    <input type="hidden" name="yesnumb" value="0">
 
