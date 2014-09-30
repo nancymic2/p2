@@ -21,7 +21,7 @@ asdaSDAsdaASDASDASD
 
 <img src="images/chandelier.gif" alt="light" id="light">
 <img src="images/sofa.gif" alt="sofa" id="sofa">
-<img src="images/rugp.gif" alt="rug" id="rug">
+<img src="images/rugP.gif" alt="rug" id="rug">
 <img src="images/table.gif" alt="table" id="table">
 <img src="images/sign.jpg" alt="sign" id="sign">
 <img src="images/doorl.gif" alt="doorl" id="doorl">
