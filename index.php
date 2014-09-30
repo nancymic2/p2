@@ -10,12 +10,23 @@
 
 <div id="div1">
 
+<h3>xkcd password boutique</h3>
 
-<h2>xkcd passwords</h2>
+</div>
+
+<div id="div2">
+asdaSDAsdaASDASDASD
 
 </div>
 
 <img src="images/chandelier.gif" alt="light" id="light">
+<img src="images/sofa.gif" alt="sofa" id="sofa">
+<img src="images/rugp.gif" alt="rug" id="rug">
+<img src="images/table.gif" alt="table" id="table">
+<img src="images/sign.jpg" alt="sign" id="sign">
+<img src="images/doorl.gif" alt="doorl" id="doorl">
+<img src="images/doorr.gif" alt="doorl" id="doorr">
+<div id="formdiv">
 <form action="r.php" method="post">
     Number of Words: <input type="text" name="numwords" maxlength=1 size="1"><br>
 
@@ -33,12 +44,12 @@
 
     <input type="hidden" name="yesspace" value="0">
 
-  Seperate with spaces instead of dashes? <input type="checkbox" name="yesspace" value="1"> <br>
+  Seperate with spaces not dashes? <input type="checkbox" name="yesspace" value="1"> <br>
 
 
     <input type="submit">
 </form>
 
-
+</div>
 </body>
 </html> 

@@ -10,9 +10,24 @@ font-size: 18 px;
 
 #div1 {
 background-color: white;
-width: 500px;
+width: 270px;
 margin-bottom: 60px;
 }
+
+#div2 {
+background-color: white;
+width: 270px;
+margin-bottom: 60px;
+}
+
+
+#formdiv {
+padding-top: 40px;
+padding-bottom: 40px;
+width: 270px;
+margin-bottom: 60px;
+}
+
 
 #light
 
@@ -20,10 +35,92 @@ margin-bottom: 60px;
 
 position:absolute;
 
-left:540px;
+left:330px;
 
-top:10px;
+top:50px;
 
 z-index:1;
 
 }
+
+#sofa
+{
+
+position:absolute;
+
+left:440px;
+
+top:300px;
+
+z-index:3;
+
+}
+
+#rug
+{
+
+position:absolute;
+
+left:280px;
+
+top:460px;
+
+z-index:1;
+
+}
+
+#table
+{
+
+position:absolute;
+
+left:470px;
+
+top:460px;
+
+z-index:5;
+
+}
+
+
+#sign
+{
+
+position:absolute;
+
+left:720px;
+
+top:50px;
+
+z-index:15;
+
+}
+
+#doorl
+{
+
+position:absolute;
+
+left:280px;
+
+top:10px;
+
+z-index:9;
+
+}
+
+#doorr
+{
+
+position:absolute;
+
+left:670px;
+
+top:10px;
+
+z-index:9;
+
+}
+
+
+
