@@ -14,7 +14,7 @@ OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want c
 
 
 </div>
-
+<img src="images/scroll.png" alt="scroll" id="scroll">
 <img src="images/chandelier.gif" alt="light" id="light">
 <img src="images/sofa.gif" alt="sofa" id="sofa">
 <img src="images/rugP.gif" alt="rug" id="rug">
