@@ -50,7 +50,7 @@ We'll create your passwords for you while you enjoy a little shopping and relaxa
 
     <input type="submit">
 </form>
-
+<img src="images/arr.png" alt="arrow" id="arrow">
 </div>
 </body>
 </html> 
