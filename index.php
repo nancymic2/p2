@@ -8,15 +8,10 @@
  </head> 
  <body> 
 
-<div id="div1">
-
-<h3>xkcd password boutique</h3>
-
-</div>
 
 <div id="div2">
-Why should fabulous you do all the heavy lifting every time you need a password?
-We'll create your passwords for you while you enjoy a little shopping and relaxation!
+OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want crazy passwords with numbers in them and they have to be long and have special characters! How are we supposed to remember them We can barely even remember our credit card numbers! We've all tried using our favorite designer names as passwords. Bad idea, apparently! So let us create your xkcd password! It will be fun to remember, and you can get back to shopping!
+
 
 </div>
 
