@@ -10,7 +10,7 @@
 
 
 <div id="div2">
-OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want crazy passwords with numbers in them and they have to be long and have special characters! How are we supposed to remember them We can barely even remember our credit card numbers! We've all tried using our favorite designer names as passwords. Bad idea, apparently! So let us create your xkcd password! It will be fun to remember, and you can get back to shopping!
+OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want crazy passwords with numbers in them and they have to be long and have special characters! How are we supposed to remember them? We can barely even remember our credit card numbers! We've all tried using our favorite designer names as passwords. Bad idea, apparently! So let us create your xkcd password! It will be fun to remember, and you can get back to shopping!
 
 
 </div>
