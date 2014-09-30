@@ -15,7 +15,8 @@
 </div>
 
 <div id="div2">
-asdaSDAsdaASDASDASD
+Why should fabulous you do all the heavy lifting every time you need a password?
+We'll create your passwords for you while you enjoy a little shopping and relaxation!
 
 </div>
 
