@@ -45,8 +45,8 @@ We'll create your passwords for you while you enjoy a little shopping and relaxa
 
     <input type="hidden" name="yesspace" value="0">
 
-  Seperate with spaces not dashes? <input type="checkbox" name="yesspace" value="1"> <br>
-
+  Separate with spaces not dashes? <input type="checkbox" name="yesspace" value="1"> <br>
+<br>
 
     <input type="submit">
 </form>
