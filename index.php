@@ -43,7 +43,7 @@ OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want c
   Separate with spaces not dashes? <input type="checkbox" name="yesspace" value="1"> <br>
 <br>
 
-    <input type="submit">
+    <input type="submit" value = "Get Password">
 </form>
 <img src="images/arr.png" alt="arrow" id="arrow">
 </div>

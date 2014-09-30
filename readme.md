@@ -9,7 +9,8 @@
 + Project 2 is a passphrase generator that provides the user with words chosen randomly from a list of words. The number of words is selected by the user. The user can also choose to add numbers or special characters
 + I will demo my project at the Tuesday night section.
 + All code is mine; design as usual is not beautiful.
-+ GitHub URL is https://github.com/nancymic2/p2.git
++ GitHub URL is [https://github.com/nancymic2/p2.git](https://github.com/nancymic2/p2.git)
++ note: images are from Google images
 
 
 

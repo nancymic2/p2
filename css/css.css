@@ -134,8 +134,18 @@ z-index:9;
 #arrow
 {
 
-margin-left: 80px;
-margin-top: 10px;
+
+position:absolute;
+
+left:170px;
+
+top:490px;
+
+
+//margin-left: 120px;
+//margin-top: 10px;
+z-index:9;
+
 }
 
 h2 {
