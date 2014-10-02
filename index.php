@@ -10,7 +10,11 @@
 
 
 <div id="div2">
-OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want crazy passwords with numbers in them and they have to be long and have special characters! How are we supposed to remember them? We can barely even remember our credit card numbers! We've all tried using our favorite designer names as passwords. Bad idea, apparently! So let us create your xkcd password! It will be fun to remember, and you can get back to shopping!
+OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want crazy passwords with numbers in them and they have to be long and have special characters! How are we supposed to remember them? We can barely even remember our credit card numbers! We've all tried using our favorite designer names as passwords. Bad idea, apparently! <br>
+We are constantly creating passwords we think are complex. We can't remeber them, and they are easy for algorithms to guess! So now there are xkcd passwords. Long, easy to remember, and hard for computers to guess!<br>
+
+
+So let us create your xkcd password! It will be fun to remember, and you can get back to shopping!
 
 
 </div>
@@ -24,7 +28,7 @@ OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want c
 <img src="images/doorr.gif" alt="doorl" id="doorr">
 <div id="formdiv">
 <form action="r.php" method="post">
-    Number of Words: <input type="text" name="numwords" maxlength=1 size="1"><br>
+    Number of Words (<10): <input type="text" name="numwords" maxlength=1 size="1"><br>
 
    <input type="hidden" name="yesnumb" value="0">
 
@@ -41,6 +45,7 @@ OMGGGGG! All we want to do is shop for a fall wardrobe and all the stores want c
     <input type="hidden" name="yesspace" value="0">
 
   Separate with spaces not dashes? <input type="checkbox" name="yesspace" value="1"> <br>
+Create your own sepatator instead: <input type="text" name="seps" maxlength=1 size="1"><br>
 <br>
 
     <input type="submit" value = "Get Password">

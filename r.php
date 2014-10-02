@@ -13,7 +13,8 @@ $rsymbs = rand(0, 14);
 /* get the number of words from the form and put in numofwords*/
 $numofwords = $_POST['numwords'];
 
-
+/* get the separator from the form and put in separ*/
+$separ = $_POST['seps'];
 
 if ($numofwords < 1)  //handle zero words
 {
@@ -57,14 +58,21 @@ echo $motcap;
 else
 echo $theword;
 
-if ($yesspace == "1")
-{
-$seperator = " ";
-}
+if ($separ =="" && $yesspace == "1")
+	{
+	$seperator = " ";
+	}
+elseif ($separ =="" && $yesspace != "1")	
+	
+	
+	{
+	$seperator = "-";
+	}
+
 else
-{
-$seperator = "-";
-}
+$seperator = $separ;
+
+
 
 ////////////////////////////////////////
     if ($i < $numofwords)

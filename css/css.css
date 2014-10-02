@@ -16,7 +16,7 @@ margin-bottom: 60px;
 
 #div2 {
 background-color: white;
-width: 220px;
+width: 320px;
 
 padding-left: 20px;
 padding-right: 20px;
@@ -29,7 +29,7 @@ padding-bottom: 20px;
 //padding-top: 40px;
 padding-bottom: 40px;
 background-color: white;
-width: 220px;
+width: 320px;
 margin-bottom: 10px;
 
 padding-left: 20px;
@@ -44,7 +44,7 @@ height: 210px;
 
 position:absolute;
 
-left:330px;
+left:430px;
 
 top:50px;
 
@@ -57,7 +57,7 @@ z-index:1;
 
 position:absolute;
 
-left:440px;
+left:540px;
 
 top:300px;
 
@@ -70,7 +70,7 @@ z-index:3;
 
 position:absolute;
 
-left:280px;
+left:380px;
 
 top:460px;
 
@@ -83,7 +83,7 @@ z-index:1;
 
 position:absolute;
 
-left:470px;
+left:570px;
 
 top:460px;
 
@@ -97,7 +97,7 @@ z-index:5;
 
 position:absolute;
 
-left:720px;
+left:820px;
 
 top:50px;
 
@@ -110,7 +110,7 @@ z-index:15;
 
 position:absolute;
 
-left:280px;
+left:380px;
 
 top:10px;
 
@@ -123,7 +123,7 @@ z-index:9;
 
 position:absolute;
 
-left:670px;
+left:770px;
 
 top:10px;
 
@@ -137,9 +137,9 @@ z-index:9;
 
 position:absolute;
 
-left:170px;
+left:270px;
 
-top:490px;
+top:530px;
 
 
 //margin-left: 120px;
@@ -155,7 +155,7 @@ color: purple;
 #scroll {
 position:absolute;
 
-left:0px;
+left:50px;
 
 top:0px;
 
