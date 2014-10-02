@@ -28,7 +28,7 @@ So let us create your xkcd password! It will be fun to remember, and you can get
 <img src="images/doorr.gif" alt="doorl" id="doorr">
 <div id="formdiv">
 <form action="r.php" method="post">
-    Number of Words (<10): <input type="text" name="numwords" maxlength=1 size="1"><br>
+    Number of Words (&lt;10): <input type="text" name="numwords" maxlength=1 size="1"><br>
 
    <input type="hidden" name="yesnumb" value="0">
 
