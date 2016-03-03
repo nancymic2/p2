@@ -12,6 +12,9 @@ color: white;
 background-color: #00aa99;
 }
 
+div {
+	background-color: #ffd566;
+}
 .actlink {
 	color: #00ffff; 
 }
