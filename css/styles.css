@@ -12,7 +12,7 @@ color: white;
 background-color: #00aa99;
 }
 
-div {
+div, .twothird {
 	background-color: #ffd566;
 }
 .actlink {
