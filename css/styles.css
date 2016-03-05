@@ -103,10 +103,11 @@ width: 100%;
 
 .containerMain {
 	width: 960px;
-padding-top: 400px;
+    padding-top: 400px;
 	margin: 0px auto;
 	border: 1px solid gray;
 	background-color: #ffd566;
+	height: auto;
 }
 
 #header {
