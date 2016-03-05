@@ -19,8 +19,7 @@
  	    <div id="backh" class="third"> <img src="images/tiny.png" data-large="images/fore.jpg" data-med="images/forehandMed.jpg" data-small="images/foreCred.jpg" alt="tennis" class="serveImg"> </div>
  	   
     </div>
-    <footer id="footer">&copy;2016 Completely Fictitious Tennis Inc.
-    </footer>
+<?php include("htmlhead.php"); ?> 
 </div>
 
 

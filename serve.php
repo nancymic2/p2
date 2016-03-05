@@ -10,7 +10,7 @@
 
  	    <!-- here the data attribute is only a string, not an actual image so it should not be loaded. Only the 1X1 pixel white image is loaded-->
  	    <div class="twothird">
-<div class="title"><h2>The Serve</h2></div>
+			<div class="title"><h2>The Serve</h2></div>
 
  	    	A great serve takes much practice. But once you master it, well, master it a bit, you'll find that it is your secret weapon. It can be the shot that you rely on. In club play, great serves are not terribly common. Many club players learned tennis on their own and learned lots of bad habits that are tough to break.<br>
  	    	There are a few key things to master when working on your serve:<br>
@@ -31,8 +31,7 @@
  	     	    <div id="backh" class="third"><img src="images/tiny.png" data-large="images/serve2.jpg" data-small="images/serveCred.jpg" data-med="images/serveMed.jpg" alt="tennis" class="serveImg">
  	    </div>
     </div>
-    <footer id="footer">&copy;2016 Completely Fictitious Tennis Inc.
-    </footer>
+<?php include("footer.php"); ?> 
 </div>
 
 

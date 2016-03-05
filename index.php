@@ -27,16 +27,9 @@
  	     	    <div id="backh" class="third"><img src="images/Wimbledon2008.jpg" data-large="images/Wimbledon2008.jpg" data-small="images/Wimbledon2008.jpg" data-med="images/fedAndNadalMed.jpg" alt="tennis" class='serveImg'>
  	    </div>
     </div>
-    <div id="footer">&copy;2016 Completely Fictitious Tennis Inc.
-    </div>
+<?php include("htmlhead.php"); ?> 
 </div>
 
-
-
-
-
-
-
- </body></html> 
+</body></html> 
  
 
