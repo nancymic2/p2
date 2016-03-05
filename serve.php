@@ -21,13 +21,8 @@
  		 		<!--<img id="hamburger" src="images/hamb.png" alt="nav">-->
  	</div>
  	<div id="smallnav">
- 		<ul>
- 			<li><a href="index.html">Home</a></li>
- 			<li><a href="backhand.html">Backhand</a></li>
- 			<li><a href="forehand.html">Forehand</a></li>
- 			<li><a class="actlink" href="serve.html">Serve</a></li>
-            <li><a href="credits.html">Credits</a></li>
- 		</ul>
+	 <?php include("smallnav.php"); ?> 	
+
  	</div>
  	<nav id="nav">
 
