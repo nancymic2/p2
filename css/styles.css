@@ -97,6 +97,7 @@ img {
 width: 100%;
 	position: fixed;
 			top: 0px;
+				background-color: #ffd566;
 }
 .container {
 	width: 960px;
