@@ -119,14 +119,22 @@ width: 100%;
 	background-repeat: no-repeat;
 	height: 200px;
 }
+#footerdiv {
+	width: 100%;
+	position: fixed;
+			bottom: 0px;
+				background-color: blue;
+}
 #footer {
 
-	width: 100%;
+	width: 960px;
 	background-color: #909090;
 	height: 75px;
 	border-top: 1px solid white;
 	padding-top: 1.5em;
 	padding-left: 1em;
+		margin: 0px auto;
+	
 }
 .hundred {
 	width: 100%;
