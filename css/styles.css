@@ -8,15 +8,11 @@ html {
 
 body {
 	font-family: 'Roboto', sans-serif;
-color: #6f616f;
-background-color: #00aa99;
+
 }
 
-
-
-
 .actlink {
-	/*color: #00ffff; */
+	/*color: #00ffff;  */
 }
 #headline {
 	font-size: 1.4em;
@@ -82,33 +78,11 @@ img {
 	font-size: 1.3em;
 	width: 100%;
 }
-
-
-.topwrapper {
-width: 100%;
-	position: fixed;
-			top: 0px;
-				background-color: blue;
-				z-index: 300;
-}
 .container {
 	width: 960px;
-
+	background-color: white;
 	margin: 0px auto;
 	border: 1px solid gray;
-	background-color: #ffd566;
-
-}
-
-.containerMain {
-	width: 960px;
-    padding-top: 350px;
-	margin: 0px auto;
-	border: 1px solid gray;
-	background-color: #ffd566;
-	height: 1500px;
-
-
 }
 
 #header {
@@ -118,22 +92,14 @@ width: 100%;
 	background-repeat: no-repeat;
 	height: 200px;
 }
-#footerdiv {
-	width: 100%;
-	position: fixed;
-			bottom: 0px;
-				background-color: blue;
-}
 #footer {
-
-	width: 960px;
+	clear: left;
+	width: 100%;
 	background-color: #909090;
 	height: 75px;
 	border-top: 1px solid white;
 	padding-top: 1.5em;
 	padding-left: 1em;
-		margin: 0px auto;
-	
 }
 .hundred {
 	width: 100%;
@@ -175,7 +141,7 @@ img {
 }
 .twothird {
 	width:67%;
-	background-color: #ffd566;
+	background-color: white;
 
 	float: left;
 	padding: 1.3em;
