@@ -93,14 +93,19 @@ img {
 	background-color: #ffd566;
 
 }
+.topwrapper {
+width: 100%;
+	position: fixed;
+			top: 0px;
+}
 .container {
 	width: 960px;
-	position: fixed;
+
 	margin: 0px auto;
 	border: 1px solid gray;
 	background-color: #ffd566;
-		clear: left;
-		top: 0;
+
+
 
 }
 
