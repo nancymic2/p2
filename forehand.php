@@ -32,6 +32,8 @@
  	<nav id="nav">
  <?php include("nav.php"); ?>
  	</nav>
+ </div>
+ <div class="containerMain">
  	<div id="middle">
  		 <div class="twothird">
  	    	<div class="title"><h2>The Forehand</h2></div>

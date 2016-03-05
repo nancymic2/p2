@@ -84,9 +84,17 @@ img {
 	font-size: 1.3em;
 	width: 100%;
 }
+
+.containerMain {
+	width: 960px;
+
+	margin: 0px auto;
+	border: 1px solid gray;
+	background-color: #ffd566;
+}
 .container {
 	width: 960px;
-	background-color: white;
+	position: fixed;
 	margin: 0px auto;
 	border: 1px solid gray;
 	background-color: #ffd566;
