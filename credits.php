@@ -81,7 +81,7 @@
         </div>
  	</div>
 
-<?php include("htmlhead.php"); ?> 
+<?php include("footer.php"); ?> 
 </div>
 
 

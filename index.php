@@ -27,7 +27,7 @@
  	     	    <div id="backh" class="third"><img src="images/Wimbledon2008.jpg" data-large="images/Wimbledon2008.jpg" data-small="images/Wimbledon2008.jpg" data-med="images/fedAndNadalMed.jpg" alt="tennis" class='serveImg'>
  	    </div>
     </div>
-<?php include("htmlhead.php"); ?> 
+<?php include("footer.php"); ?> 
 </div>
 
 </body></html> 

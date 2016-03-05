@@ -19,7 +19,7 @@
  	    <div id="backh" class="third"> <img src="images/tiny.png" data-large="images/fore.jpg" data-med="images/forehandMed.jpg" data-small="images/foreCred.jpg" alt="tennis" class="serveImg"> </div>
  	   
     </div>
-<?php include("htmlhead.php"); ?> 
+<?php include("footer.php"); ?> 
 </div>
 
 
