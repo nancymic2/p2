@@ -29,14 +29,7 @@
  		</ul>
  	</div>
  	<nav id="nav">
-
- 		<ul>
- 			<li><a href="index.html">Home</a></li>
- 			<li><a href="backhand.html">Backhand</a></li>
- 			<li><a href="forehand.html">Forehand</a></li>
- 			<li><a href="serve.html">Serve</a></li>
-   			<li><a class="actlink" href="credits.html">Credits</a></li>
- 		</ul>
+ <?php include("nav.php"); ?>
  	</nav>
  	<div class="title"><h2>Photo Credits</h2></div>
  	<div class="middle">
