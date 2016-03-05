@@ -1,7 +1,7 @@
  		<ul>
- 			<li><a class="actlink" href="index.html">Home</a></li>
- 			<li><a href="backhand.html">Backhand</a></li>
- 			<li><a href="forehand.html">Forehand</a></li>
- 			<li><a href="serve.html">Serve</a></li>
-            <li><a href="credits.html">Credits</a></li>
+ 			<li><a class="actlink" href="index.php">Home</a></li>
+ 			<li><a href="backhand.php">Backhand</a></li>
+ 			<li><a href="forehand.php">Forehand</a></li>
+ 			<li><a href="serve.php">Serve</a></li>
+            <li><a href="credits.php">Credits</a></li>
  		</ul>
