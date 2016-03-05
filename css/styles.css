@@ -100,8 +100,8 @@ img {
 	border: 1px solid gray;
 	background-color: #ffd566;
 		clear: left;
-		    bottom: 0;
-    right: 0;
+		top: 0;
+
 }
 
 #header {
