@@ -109,6 +109,7 @@ width: 100%;
 	border: 1px solid gray;
 	background-color: #ffd566;
 	height: auto;
+	padding-bottom: 40px;
 
 }
 
@@ -177,7 +178,7 @@ img {
 .twothird {
 	width:67%;
 	background-color: #ffd566;
-padding-bottom: 40px;
+
 	float: left;
 	padding: 1.3em;
 
