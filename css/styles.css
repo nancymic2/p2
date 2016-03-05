@@ -91,6 +91,7 @@ img {
 	margin: 0px auto;
 	border: 1px solid gray;
 	background-color: #ffd566;
+	clear: both;
 }
 .container {
 	width: 960px;

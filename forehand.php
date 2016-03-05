@@ -15,11 +15,11 @@
 </head>
 <body>
  <div class="container"> 
-<header id="header1"><span id="headline">Play Tennis Like Roger Federer <img src="images/hamb.png" id="hamburger" alt="hamburger"></span>
+      <header id="header1"><span id="headline">Play Tennis Like Roger Federer <img src="images/hamb.png" id="hamburger" alt="hamburger"></span>
  		<span id="ball">&nbsp;(</span>
- 	</header>
- 	<div id="header">
- 	</div>
+ 	  </header>
+ 	  <div id="header">
+ 	  </div>
  	 	<div id="smallnav">
  		<ul>
  			<li><a href="index.html">Home</a></li>
@@ -28,11 +28,11 @@
  			<li><a href="serve.html">Serve</a></li>
             <li><a href="credits.html">Credits</a></li>
  		</ul>
- 	</div>
- 	<nav id="nav">
- <?php include("nav.php"); ?>
- 	</nav>
- </div>
+ 	   </div>
+ 	   <nav id="nav">
+       <?php include("nav.php"); ?>
+ 	   </nav>
+    </div>
  <div class="containerMain">
  	<div id="middle">
  		 <div class="twothird">
