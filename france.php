@@ -59,12 +59,17 @@
 	 	    </div>
  		</div>
 		<div class="hundred">
-			<img src="images/fount.jpg">
+			<img src="images/fount.jpg" 
+				data-small="images/backhandCred.jpg" 
+	 	    	data-large="images/backhandCred.jpg" 
+	 	    	data-med="images/backhandMed.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="france"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"> <p>This is the Places Des Terreaux in Lyon. It is where the Hotel De Ville, or city hall 
+	 	    	is located, as well as the Musée des Beaux-Arts de Lyon. It is a UNESCO World Heritage site.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div class="third bord"><p>The fountain, by sculptor Frédéric Auguste Bartholdi who also designed the Statue of Liberty, 
+	 	    	adorns the center of the places.</p>
 
 	 	    </div>
 	 	  <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
