@@ -1,6 +1,6 @@
 
 window.onload=function(){
-	alert('hi');
+
 	sizeit();
 	document.getElementById('hamburger').addEventListener('click', getmenu, false);
 }
@@ -21,7 +21,7 @@ function sizeit() {
 	var imgsrc=document.getElementsByClassName('serveImg');
 	for (var i=0; i<imgsrc.length; i++) {
 
-		if (window.matchMedia('(max-width: 400px)').matches) {
+		if (window.matchMedia('(max-width: 412px)').matches) {
 			var smallest=imgsrc[i].getAttribute('data-small');
 			imgsrc[i].src=smallest;
 		
