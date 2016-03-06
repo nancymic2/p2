@@ -8,7 +8,7 @@
  <div class="container"> 
 	 <?php include("head.php"); ?> 
  	<div id="middle">
-
+<div class="hundred title" id="titlebar">France</div>
  	    <div class="hundred">
 		<img src="images/blanc.jpg">
  	    </div>
