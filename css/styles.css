@@ -14,6 +14,8 @@ body {
 #home {
 	height: 300px;
 	padding: 30px;
+	font-family: 'Satisfy', cursive;
+	font-size: 1.3em;
 }
 .actlink {
 	/*color: #00ffff;  */
