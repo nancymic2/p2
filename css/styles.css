@@ -283,8 +283,13 @@ img {
 	#hamburger {
 		display: block;
 	}
-	#home {
-	font-size: .5em;
+#home {
+	height: 2.5em;
+	padding: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
+
+	font-size: .8em;
 }
 	#headline {
 		font-size: .7em;
