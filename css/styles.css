@@ -253,6 +253,14 @@ img {
 	body {
 		font-size: 1em;
 	}
+		#header {
+		clear: both;
+		width: 100%;
+	    background-image: url("../images/bgMed2.jpg");
+	    background-repeat: no-repeat;
+	    height: 202px;
+
+	}
 #home {
 	height: 8em;
 	padding: 2em;
