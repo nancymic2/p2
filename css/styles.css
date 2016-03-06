@@ -267,6 +267,12 @@ img {
 		width: 100%;
 
 	}
+	#slug {
+	display: none;
+	}
+	#headline {
+	font-size: .9em;
+	}
 
 	#header {
 		clear: both;
@@ -322,6 +328,9 @@ img {
 @media screen and (max-width:400px) {
 	#headline {
 	font-size: .95em;
+	}
+	#slug {
+	display: none;
 	}
 
 	#header {
