@@ -11,7 +11,9 @@ body {
 
 }
 
-
+#home {
+	height: 300px;
+}
 .actlink {
 	/*color: #00ffff;  */
 }
