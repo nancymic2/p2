@@ -1,0 +1,163 @@
+body {
+//background-color: red;
+font-family:"Arial",sans-Serif;
+font-size: 18 px;
+
+
+ background-image: url('../images/back.jpg');
+    background-color: #cccccc;
+}
+
+#div1 {
+background-color: white;
+width: 270px;
+margin-bottom: 60px;
+}
+
+#div2 {
+background-color: white;
+width: 320px;
+
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 30px;
+padding-bottom: 20px;
+}
+
+
+#formdiv {
+//padding-top: 40px;
+padding-bottom: 40px;
+background-color: white;
+width: 320px;
+margin-bottom: 10px;
+
+padding-left: 20px;
+padding-right: 20px;
+height: 210px;
+}
+
+
+#light
+
+{
+
+position:absolute;
+
+left:430px;
+
+top:50px;
+
+z-index:1;
+
+}
+
+#sofa
+{
+
+position:absolute;
+
+left:540px;
+
+top:300px;
+
+z-index:3;
+
+}
+
+#rug
+{
+
+position:absolute;
+
+left:380px;
+
+top:460px;
+
+z-index:1;
+
+}
+
+#table
+{
+
+position:absolute;
+
+left:570px;
+
+top:460px;
+
+z-index:5;
+
+}
+
+
+#sign
+{
+
+position:absolute;
+
+left:820px;
+
+top:50px;
+
+z-index:15;
+
+}
+
+#doorl
+{
+
+position:absolute;
+
+left:380px;
+
+top:10px;
+
+z-index:9;
+
+}
+
+#doorr
+{
+
+position:absolute;
+
+left:770px;
+
+top:10px;
+
+z-index:9;
+
+}
+
+#arrow
+{
+
+
+position:absolute;
+
+left:270px;
+
+top:530px;
+
+
+//margin-left: 120px;
+//margin-top: 10px;
+z-index:9;
+
+}
+
+h2 {
+color: purple;
+}
+
+#scroll {
+position:absolute;
+
+left:50px;
+
+top:0px;
+
+z-index:1;
+}

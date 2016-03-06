@@ -39,7 +39,11 @@ h2 {
 	padding: 3px;
 	padding-left: 10px;
 }
+.title {
+	background-color: #cdcdcd;
+	color: white;
 
+}
 a {
 	text-decoration: none;
 	color: white;
@@ -109,8 +113,27 @@ img {
 	float: left;
 
 }
+#ball {
+	background-color: yellow;
+	border-radius: 50px;
+	width: 50px;
+	height: 50px;
+	z-index: 5;
+	display: inline;
+	float: right;
+	color: white;
+	font-size: 2.1em;
+	font-weight: 100;
+	margin-top: -.2em;
+
+}
+#grip {
+	float: left;
+	margin: 1em 1em 1em;
+	border-radius: 80px;
 
 
+}
 
 img {
 	float: left;
@@ -123,6 +146,9 @@ img {
 	float: left;
 	padding: 1.3em;
 
+}
+.backh {
+	/* background-image: url("images/backhand_fed.jpg"); */
 }
 	.middle {
 		width: 100%;
