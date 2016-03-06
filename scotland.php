@@ -65,16 +65,18 @@
 	 	  	posted them.</p></div>
  		</div>
 		<div class="hundred">
-			<img src="images/jenners.jpg">
+			<img src="images/jenners.jpg"
+			data-small="images/backhandCred.jpg" 
+			data-large="images/backhandCred.jpg" 
+			data-med="images/backhandMed.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="scotland"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
-	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div  class="third"><p>This is Jenners Department Store on Princes Street all decked out for Christmas.</div>
+	 	    <div class="third bord"><p>Jenners opened in 1838 and is one of the oldest stores in Scotland.</p>
 
 	 	    </div>
-	 	  <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
-	 	    </div>
+	 	  <div class="third"><p>As you may deduce from the photo, Christmas is a big deal all over the UK. Restaurants begin advertising
+	 	  	their Christmas menus long before December every year, and it seems nearly evey restaurant does it.</div>
  		</div>
 		
 
