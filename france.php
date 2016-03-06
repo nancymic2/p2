@@ -10,28 +10,43 @@
  	<div id="middle">
 <div class="hundred title" id="titlebar">France</div>
  	    <div class="hundred">
-		<img src="images/blanc.jpg">
+		<img src="images/blanc.jpg" 
+				data-small="images/backhandCred.jpg" 
+	 	    	data-large="images/backhandCred.jpg" 
+	 	    	data-med="images/backhandMed.jpg">
  	    </div>
  	    <div class="middle">
-	 	    <div  class="third"><img alt="france"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third">
+				<p>This is Chamonix, with Mont Blanc in the background. Mt Blanc is on the border of France and Italy and also very 
+					close to the border of Switzerland...a little like the Texarcana of Western Europe. Not!</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div class="third bord"><p>The photo does not do the mountain justice. It can be seen from everywhere. It is the highest in the
+	 	    Alps and western Europe. It is over 17,000 feet at its summit. </p>
 
 	 	    </div>
-	 	    <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	    <div class="third"><p>There is a cable car from Chamonix to Aiguille du Midi, which itself is 12,000 feet. The ride takes about 
+	 	    30 minutes and is a little harrowing.</p>
 	 	    </div>
  		</div>
 
  		<div class="hundred">
-		<img src="images/arc.jpg">
+		<img src="images/arc.jpg" 
+				data-small="images/backhandCred.jpg" 
+	 	    	data-large="images/backhandCred.jpg" 
+	 	    	data-med="images/backhandMed.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="france"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"> 
+	 	    	<p>This structure needs no introduction. I wasn't going to include it, but I like the photo so here it is. Besides,
+	 	    		icons are iconic for a reason, although I usually hate anything touristy, which is a sad statement as these beautiful
+	 	    	 structures were not built for tourists. It's not Las Vegas!</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div class="third bord"><p>Unlike the photo you will see later of Place Bellecour, this IS the Eiffel Tower in
+	 	     the background. One day I want to create a collection of European arches. But L'arc De Triomphe is really beautiful.</p>
 
 	 	    </div>
-	 	    <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	    <div class="third"><p>All in all, it's a nice stroll down the Chaps Elysees towards the Arc De Triomphe. Yes it's similar to 
+	 	    	5th Ave in New York, but it's nicer.</p>
 	 	    </div>
  		</div>
  				<div class="hundred">
@@ -50,7 +65,8 @@
 
 	 	    </div>
 	 	  <div class="third"><p>Lyon is the birthplace of 20th-Century haute cuisine. It all began here under the tutelage of Georges Auguste Escoffier. You can
-	 	  	learn more from Anthony Bourdain as he visits Lyon with Daniel Boulud.<a href="https://www.youtube.com/watch?v=pXK2AkDODBM" target="_blank">Parts Unknown</a></p>
+	 	  	learn more from Anthony Bourdain as he visits Lyon with Daniel Boulud in 
+	 	  	<a href="https://www.youtube.com/watch?v=pXK2AkDODBM" target="_blank">Parts Unknown</a>.</p>
 	 	    </div>
  		</div>
 		<!--<div class="hundred">
