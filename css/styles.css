@@ -12,7 +12,7 @@ body {
 }
 
 #titlebar {
-	color: red;
+	color: #f90075;
 	background-color: #599ed0;
 	padding-left: 1em;
 	font-size: 2.5em;
@@ -21,7 +21,7 @@ body {
 		    font-family: 'Satisfy', cursive;
 		    opacity: 0.9;
 		    height: 1.3em;
-		    padding-bottom: -8em;
+
 }
 #home {
 	height: 10em;
