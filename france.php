@@ -10,7 +10,7 @@
  	<div id="middle">
 <div class="hundred title" id="titlebar">France</div>
  	    <div class="hundred">
-		<img src="images/blanc.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+		<img src="images/blanc.jpg" class="serveImg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third">
