@@ -241,6 +241,9 @@ img {
 	#hamburger {
 		display: block;
 	}
+	#header1 {
+		font-size: 1.2em;
+	}
 
 	#nav ul {
 		height: auto;
