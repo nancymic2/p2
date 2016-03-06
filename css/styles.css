@@ -132,6 +132,7 @@ img {
 	width:33.333%;
 	float: left;
 	border-right: 1px dotted #dddddd;
+		border-left: 1px dotted #dddddd;
 	padding-right: 1.5em;
 
 }
@@ -143,7 +144,7 @@ img {
 
 }
 .twothird {
-	width:67%;
+	width:66.666%;
 	background-color: white;
 
 	float: left;
