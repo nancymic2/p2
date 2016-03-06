@@ -1,5 +1,5 @@
 	<meta charset="utf-8">
-	<title>Tennis with Federer</title>
+	<title>Travels with Charlie</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href='http://fonts.googleapis.com/css?family=Cabin+Condensed:500' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="http://necolas.github.io/normalize.css/">
