@@ -261,7 +261,7 @@ img {
 		display: block;
 	}
 	#headline {
-		font-size: .9em;
+		font-size: .7em;
 	}
 	.container {
 		width: 100%;
@@ -270,9 +270,7 @@ img {
 	#slug {
 	display: none;
 	}
-	#headline {
-	font-size: .9em;
-	}
+
 
 	#header {
 		clear: both;
@@ -327,7 +325,7 @@ img {
 
 @media screen and (max-width:400px) {
 	#headline {
-	font-size: .95em;
+	font-size: .7em;
 	}
 	#slug {
 	display: none;
