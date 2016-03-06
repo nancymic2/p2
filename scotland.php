@@ -13,7 +13,7 @@
 		<img src="images/crescent.jpg" 
 			data-small="images/backhandCred.jpg" 
 			data-large="images/backhandCred.jpg" 
-			data-med="images/backhandMed.jpg">>
+			data-med="images/backhandMed.jpg">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third">One of the many crescent-shaped terrace developments in Edinburgh. Edinburgh is known for its 18th Century
