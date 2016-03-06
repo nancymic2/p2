@@ -11,6 +11,12 @@ body {
 
 }
 
+#titlebar {
+	color: white;
+	background-color: blue;
+	padding-left: 5em;
+	font-size: 2em;
+}
 #home {
 	height: 10em;
 	padding: 2em;
