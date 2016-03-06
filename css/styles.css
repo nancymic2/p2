@@ -237,7 +237,9 @@ img {
 	body {
 		font-size: 1em;
 	}
-
+#home {
+	font-size: .5em;
+}
 	#slug {
 	display: none;
 	}
