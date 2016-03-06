@@ -116,7 +116,7 @@
 
 	 	    </div>
 	 	  <div class="third"><p>The huge public spaces in Europe, of which this is one, always amaze me. It also looks a 
-	 	  	it like the grounds at Versailes.</p>
+	 	  	little like the grounds at Versailes.</p>
 	 	    </div>
  		</div>
 
