@@ -9,23 +9,18 @@
 	 <?php include("head.php"); ?> 
  	<div id="middle">
 
- 	    <div class="twothird">Are you a tennis player? Do you want to play like Roger Federer?<br>
- 	    	Federer is a seasoned player with several Wimbledon, US Open, French Open, and Australian Open titles in his career. He is originally from Basel Switzerland.<br><br>
- 	    	Federer has faced all the contemporary tennis greats, including Rafael Nadal, Novak Djokovic, Andy Murray.
- 	    	<br>Some of his stats include:
-
-
- 	    	<ul>
- 	    		<li>17 major grand slam titles</li>
-				<li>First player with 300 career wins</li>
- 	    		<li>7 Wimbledon titles</li>
- 	    		<li>win-loss record: 1067:240</li>
- 	    		<li>Tournaments played: 344</li>
- 	    	</ul>
-
+ 	    <div class="hundred">
+<img src="images/boat.jpg">
  	    </div>
- 	     	    <div id="backh" class="third"><img src="images/Wimbledon2008.jpg" data-large="images/Wimbledon2008.jpg" data-small="images/Wimbledon2008.jpg" data-med="images/fedAndNadalMed.jpg" alt="tennis" class='serveImg'>
- 	    </div>
+ 	    <div class="middle">
+	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    </div>
+	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+
+	 	    </div>
+	 	    <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	    </div>
+ 		</div>
     </div>
 <?php include("footer.php"); ?> 
 </div>

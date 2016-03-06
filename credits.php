@@ -10,13 +10,10 @@
  	<div class="middle">
  	    <div  class="third"><img class="space serveImg" src="images/serveCred.jpg" data-small="images/serveCred.jpg" data-large="images/serveCred.jpg" data-med="images/serveMed.jpg" alt="tennis1">
  	    </div>
- 	    <div class="third bord"><p>Roger Federer serving September 11, 2013. Note that he is looking up at the ball and keeping his left hand pointed at the ball. He is porably about to drop his racquet behind his head at this point. See <a href="https://www.youtube.com/watch?v=FBkFgS3e4QY" target="_blank">youtube</a></p>
-
-
+ 	     	    <div  class="third"><img alt="tennis photo"  class="space serveImg"  src="images/foreCred.jpg" data-small="images/foreCred.jpg" data-large="images/foreCred.jpg" data-med="images/forehandMed.jpg">
+ 	    	 
  	    </div>
- 	    <div class="third"><p>Federer serving: From wikimedia free to use.   [CC BY-SA 2.0 (<a href="http://creativecommons.org/licenses/by-sa/2.0)">creative commons</a>], via Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:Roger_Federer_(9617329716).jpg" target="_blank">Photo</a> </p>
-
-
+ 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
  	    </div>
  	</div>
  	 	<div class="middle">
