@@ -12,7 +12,7 @@
 			<img src="images/colloseo.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
@@ -26,7 +26,7 @@
 		<img src="images/portovenere.jpg">
  	    </div>
  	    <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
@@ -39,7 +39,7 @@
 		<img src="images/vernazza.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
@@ -51,7 +51,7 @@
 			<img src="images/fromvenezia.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
@@ -63,7 +63,7 @@
 			<img src="images/piazzaduomo.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
@@ -75,7 +75,7 @@
 			<img src="images/varenna.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
@@ -87,7 +87,7 @@
 			<img src="images/collo2.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
@@ -100,7 +100,7 @@
 			<img src="images/smalltemple.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
