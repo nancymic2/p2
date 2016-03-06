@@ -256,7 +256,7 @@ img {
 	}
 }
 /*-----------------------------------------------*/
-@media screen and (min-width:401px) and (max-width:640px) {
+@media screen and (min-width:413px) and (max-width:640px) {
 	#hamburger {
 		display: block;
 	}
@@ -323,7 +323,7 @@ img {
 	}
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:412px) {
 	#headline {
 	font-size: .7em;
 	}
