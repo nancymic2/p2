@@ -277,7 +277,7 @@ img {
 		width: 100%;
 	    background-image: url("../images/bgMed2.jpg");
 	    background-repeat: no-repeat;
-	    height: 201px;
+
 	}
     #footer {
 		clear: both;
@@ -331,13 +331,15 @@ img {
 	#slug {
 	display: none;
 	}
-
+#home {
+	font-size: .7em;
+}
 	#header {
 	    clear: both;
 		width: 100%;
 	    background-image: url("../images/bgSmall.jpg");
 	    background-repeat: no-repeat;
-	    height: 104px;
+
 	}
 	body {
 		font-size: .8em;
