@@ -226,6 +226,12 @@ img {
 	}
 }
 
+@media screen and (min-width:757px) and (max-width:958px) {
+	#headline {
+	font-size: .6em;
+	}
+
+}
 @media screen and (min-width:641px) and (max-width:765px) {
 
 	body {
