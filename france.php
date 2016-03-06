@@ -28,7 +28,7 @@
 
  		<div class="hundred">
 		<img src="images/arc.jpg" 
-				data-small="images/backhandCred.jpg" 
+				 class="serveImg" data-small="images/backhandCred.jpg" 
 	 	    	data-large="images/backhandCred.jpg" 
 	 	    	data-med="images/backhandMed.jpg">
  	    </div>
@@ -48,7 +48,7 @@
  		</div>
  				<div class="hundred">
 			<img src="images/saoneLyon.jpg" 
-				data-small="images/backhandCred.jpg" 
+				 class="serveImg" data-small="images/backhandCred.jpg" 
 	 	    	data-large="images/backhandCred.jpg" 
 	 	    	data-med="images/backhandMed.jpg">
  	    </div>
@@ -80,7 +80,7 @@
  		</div>-->
 		<div class="hundred">
 			<img src="images/fount.jpg" 
-				data-small="images/backhandCred.jpg" 
+				 class="serveImg" data-small="images/backhandCred.jpg" 
 	 	    	data-large="images/backhandCred.jpg" 
 	 	    	data-med="images/backhandMed.jpg">
  	    </div>
@@ -97,7 +97,7 @@
 
 <div class="hundred">
 			<img src="images/terreaux.jpg" 	 	    	
-				data-small="images/backhandCred.jpg" 
+				 class="serveImg" data-small="images/backhandCred.jpg" 
 	 	    	data-large="images/backhandCred.jpg" 
 	 	    	data-med="images/backhandMed.jpg">
  	    </div>

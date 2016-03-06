@@ -11,7 +11,7 @@
 <div class="hundred title" id="titlebar">Scotland</div>
  	    <div class="hundred">
 		<img src="images/crescent.jpg" 
-			data-small="images/backhandCred.jpg" 
+			 class="serveImg" data-small="images/backhandCred.jpg" 
 			data-large="images/backhandCred.jpg" 
 			data-med="images/backhandMed.jpg">
  	    </div>
@@ -32,7 +32,7 @@
 
  		<div class="hundred">
 		<img src="images/northSea.jpg" 			
-			data-small="images/backhandCred.jpg" 
+			 class="serveImg" data-small="images/backhandCred.jpg" 
 			data-large="images/backhandCred.jpg" 
 			data-med="images/backhandMed.jpg">
  	    </div>
@@ -50,7 +50,7 @@
  		</div>
  				<div class="hundred">
 			<img src="images/britannia.jpg"			
-			data-small="images/backhandCred.jpg" 
+			 class="serveImg" data-small="images/backhandCred.jpg" 
 			data-large="images/backhandCred.jpg" 
 			data-med="images/backhandMed.jpg">
  	    </div>
@@ -66,7 +66,7 @@
  		</div>
 		<div class="hundred">
 			<img src="images/jenners.jpg"
-			data-small="images/backhandCred.jpg" 
+			 class="serveImg" data-small="images/backhandCred.jpg" 
 			data-large="images/backhandCred.jpg" 
 			data-med="images/backhandMed.jpg">
  	    </div>
