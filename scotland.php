@@ -44,8 +44,8 @@
 	 	    	as glass that day. So serene!</p>
 
 	 	    </div>
-	 	    <div class="third"><p>Leith is just outside the edge of Edinburgh. There are busses that run there from the city center.
-	 	    	There is a medium-sized retail mall there with some decent restaurants and the tours of the ship.</p>
+	 	    <div class="third"><p>In the background are some new housing towers. As I looked over the magically named Firth of Forth, 
+	 	    	I thought they looked like a fantastic place to live. </p>
 	 	    </div>
  		</div>
  				<div class="hundred">
@@ -55,13 +55,14 @@
 			data-med="images/backhandMed.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"> <p>In the background are some new housing towers. As I looked over the magically named Firth of Forth, 
-	 	    	I thought they looked like a fantastic place to live.</div>
-	 	    <div class="third bord"><p></p>
+	 	    <div  class="third"> <p>Leith is just outside the edge of Edinburgh. There are busses that run there from the city center.
+	 	    	There is a medium-sized retail mall there with some decent restaurants and the tours of the ship.</p></div>
+	 	    <div class="third bord"><p>This is the Queen's dining room when onboard the yacht. 
+	 	  	I assume this is casual dining, royal style.</p>
 
 	 	    </div>
-	 	  <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
-	 	    </div>
+	 	  <div class="third"><p>On the ship you can tour the staterooms, galley, engine room, deck. I have photos but have not 
+	 	  	posted them.</p></div>
  		</div>
 		<div class="hundred">
 			<img src="images/jenners.jpg">
