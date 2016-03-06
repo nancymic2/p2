@@ -236,14 +236,12 @@ img {
 	display: none;
 	}
 	#headline {
-	font-size: 1.2em;
+	font-size: 1.4em;
 	}
 	#hamburger {
 		display: block;
 	}
-	#header1 {
-		font-size: 1.2em;
-	}
+
 
 	#nav ul {
 		height: auto;
