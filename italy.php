@@ -23,7 +23,7 @@
  		</div>
 
  		<div class="hundred">
-		<img src="images/arc.jpg">
+		<img src="images/vernazza.jpg">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -35,7 +35,7 @@
 	 	    </div>
  		</div>
  				<div class="hundred">
-			<img src="images/saoneLyon.jpg">
+			<img src="images/piazzaduomo.jpg">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="tennis photo2"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
