@@ -16,8 +16,8 @@
 			data-med="images/backhandMed.jpg">
  	    </div>
  	    <div class="middle">
-	 	    <div  class="third">One of the many crescent-shaped terrace developments in Edinburgh. Edinburgh is known for its 18th Century
-	 	    	townhouses and probably has as many ot more than Bath in England.
+	 	    <div  class="third"><p>One of the many crescent-shaped terrace developments in Edinburgh. Edinburgh is known for its 18th Century
+	 	    	townhouses and probably has as many ot more than Bath in England.</p>
 	 	    </div>
 	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
 
