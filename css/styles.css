@@ -130,8 +130,9 @@ img {
 
 .third {
 	width:33%;
-
 	float: left;
+	border-right: 1px dotted #dddddd;
+	padding-right: 1.5em;
 
 }
 
