@@ -11,6 +11,7 @@ body {
 
 }
 
+
 .actlink {
 	/*color: #00ffff;  */
 }
@@ -69,9 +70,9 @@ img {
 #header1 {
 	background-color: black;
 	color: white;
-	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Satisfy', cursive;
 	padding: 20px;
-	font-size: 1.3em;
+	font-size: 3.3em;
 	width: 100%;
 }
 .container {
