@@ -7,7 +7,7 @@
 <body>
  <div class="container"> 
 	 <?php include("head.php"); ?> 
-
+	<div id="middle">
 		<div class="hundred">
 			<img src="images/colloseo.jpg">
  	    </div>
@@ -20,7 +20,7 @@
 	 	  <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
 	 	    </div>
  		</div>
- 	<div id="middle">
+ 
 
  	    <div class="hundred">
 		<img src="images/portovenere.jpg">
