@@ -6,7 +6,7 @@ window.onload=function(){
 }
 
 window.onresize=function(){
-				alert('hi');
+				
 	sizeit();
 }
 
