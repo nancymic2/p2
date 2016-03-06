@@ -1,6 +1,6 @@
 
 window.onload=function(){
-	
+	alert('hi');
 	sizeit();
 	document.getElementById('hamburger').addEventListener('click', getmenu, false);
 }
