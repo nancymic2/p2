@@ -172,6 +172,14 @@ img {
 	display: block;
 }
 
+#home {
+	height: 10em;
+	padding: 2em;
+	padding-left: 6em;
+	padding-right: 6em;
+
+	font-size: 1.2em;
+}
 
 @media screen and (max-width:959px) {
 	.container {
@@ -224,6 +232,14 @@ img {
 	p {
 		font-size: .8em;
 	}
+	#home {
+	height: 10em;
+	padding: 2em;
+	padding-left: 6em;
+	padding-right: 6em;
+
+	font-size: 1.2em;
+}
 }
 
 @media screen and (min-width:757px) and (max-width:958px) {
@@ -238,7 +254,12 @@ img {
 		font-size: 1em;
 	}
 #home {
-	font-size: .5em;
+	height: 5em;
+	padding: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
+
+	font-size: .9em;
 }
 	#slug {
 	display: none;
