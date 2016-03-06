@@ -231,6 +231,10 @@ img {
 	body {
 		font-size: 1em;
 	}
+
+	#slug {
+	display: none;
+	}
 	#headline {
 	font-size: 1.2em;
 	}
