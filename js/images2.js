@@ -6,6 +6,7 @@ window.onload=function(){
 }
 
 window.onresize=function(){
+				alert('hi');
 	sizeit();
 }
 
@@ -24,7 +25,7 @@ function sizeit() {
 		if (window.matchMedia('(max-width: 412px)').matches) {
 			var smallest=imgsrc[i].getAttribute('data-small');
 			imgsrc[i].src=smallest;
-			alert('hi');
+
 		
 		}
 
