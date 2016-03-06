@@ -71,8 +71,9 @@
 			data-med="images/backhandMed.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><p>This is Jenners Department Store on Princes Street all decked out for Christmas.</div>
-	 	    <div class="third bord"><p>Jenners opened in 1838 and is one of the oldest stores in Scotland.</p>
+	 	    <div  class="third"><p>This is Jenners Department Store on Princes Street all decked out for Christmas. Princes Street
+	 	    	is the high street and main shopping venue in Edinburgh. It runs parallel to the Royal Mile, up in the old town.</div>
+	 	    <div class="third bord"><p>Jenners is below the old town, in the new town. It opened in 1838 and is one of the oldest stores in Scotland.</p>
 
 	 	    </div>
 	 	  <div class="third"><p>As you may deduce from the photo, Christmas is a big deal all over the UK. Restaurants begin advertising
