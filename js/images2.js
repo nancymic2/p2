@@ -2,7 +2,7 @@
 window.onload=function(){
 
 	sizeit();
-	document.getElementById('hamburger').addEventListener('click', getmenu, false);
+	//document.getElementById('hamburger').addEventListener('click', getmenu, false);
 };
 
 window.onresize=function(){
