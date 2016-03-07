@@ -25,12 +25,16 @@
 		<img src="images/boat.jpg">
  	    </div>
  	    <div class="middle">
-	 	    <div  class="third"><img alt="switzerland"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third">
+	 	    	<p>This is Montreux, as are two photos below. They refer to it as the Swiss Riviera, and with good reason as you can see. Sans
+	 	    		the ocean beaches.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
-
+	 	    <div class="third bord"><p>Those are the Apls. I am in love with the Alps. From my hotel in Geneva, and everywhere, you
+	 	    	can see Mont Blanc.</p>
 	 	    </div>
-	 	    <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	    <div class="third"><p>
+	 	    	Montreux is maybe 40 minutes to an hour outside Geneva by local train. It is one of the more beautiful towns in the area, but
+	 	    	there are many. Up the sides of the hills are vineyards everywhere. Swiss wine. A surprise.</p>
 	 	    </div>
  		</div>
 		
