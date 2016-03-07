@@ -49,10 +49,27 @@
 		<img src="images/casino.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="switzerland"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
-	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div  class="third">
+	 	    	<p>
+	 	    		We all came out to Montreux
+On the Lake Geneva shoreline
+To make records with a mobile
+We didn't have much time
+Frank Zappa and the Mothers
+Were at the best place around
+But some stupid with a flare gun
+Burned the place to the ground
 
+</p>
+	 	    </div>
+	 	    <div class="third bord"><p>They burned down the gambling house
+It died with an awful sound
+Funky Claude was running in and out
+Pulling kids out the ground
+When it all was over
+We had to find another place
+But Swiss time was running out
+It seemed that we would lose the race.</p>
 	 	    </div>
 	 	    <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
 	 	    </div>
