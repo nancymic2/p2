@@ -57,7 +57,7 @@ Funky Claude was running in and out
 Pulling kids out the ground
 </p>
 	 	    </div>
-	 	    <div class="third"><p>
+	 	    <div class="third">
 	 	    	<p>When it all was over
 We had to find another place
 But Swiss time was running out
@@ -78,14 +78,12 @@ With a few red lights, a few old beds
 	 	    </div>
 	 	    <div class="third bord"><p>We made a place to sweat
 No matter what we get out of this
-I know, I know we'll never forget
-
-</p>
+I know, I know we'll never forget</p>
 
 	 	    </div>
 	 	  	<div class="third"><p>Smoke on the water, a fire in the sky
-Smoke on the water...</p> As you might guess, this very old song by Deep Purple is about Montreux on Laake Geneva. Montreux is also
-home to a number of music festivals.</div>
+Smoke on the water...</p> <p>As you might guess, this very old song by Deep Purple is about Montreux on Laake Geneva. Montreux is also
+home to a number of music festivals.</p></div>
  		</div>
 <div class="hundred">
 			<img src="images/un.jpg">
