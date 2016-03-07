@@ -115,12 +115,16 @@ home to a number of music festivals.<br>This is the Grand Hotel, and the Casino 
 			<img src="images/carouges.jpg">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><img alt="switzerland"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third">
+	 	    	<p>This is Carouge, about 15 minutes on the tram from downtown Geneva. This is the public square where a market
+	 	    		is held a few times a week.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div class="third bord"><p>When I arrived in Carouge, I thought it would be a great place to stay, but it's small. There
+	 	    aren't many hotels. Then I went to Montreux. Case closed.</p>
 
 	 	    </div>
-	 	  <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	  <div class="third"><p>The area around Geneva has great transportation (it runs on time, it's not Italy!) is pretty orderly, the Apls
+	 	  	are there and French is spoken. Good enough reasons to go.</p>
 	 	    </div>
  		</div>
 
