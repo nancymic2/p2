@@ -82,19 +82,23 @@ I know, I know we'll never forget. <a href="https://youtu.be/zUwEIt9ez7M">Smoke 
 Smoke on the water...</a></p>
 
 	 	    </div>
-	 	  	<div class="third"><p>As you might guess, this very old song by Deep Purple is about Montreux on Laake Geneva. Montreux is also
+	 	  	<div class="third"><p>As you might guess, this very old song by Deep Purple is about Montreux on Lake Geneva. Montreux is also
 home to a number of music festivals.<br>This is the Grand Hotel, and the Casino above is the rebuilt casino. It's all true.</p></div>
  		</div>
 <div class="hundred">
 			<img src="images/un.jpg">
  	    </div>
  	    <div class="middle">
-	 	    <div  class="third"><img alt="switzerland"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third">
+	 	    	<p>This is the UN in Geneva at Palais Des Nations. As you can see it is closed. Perhaps memebership dues were too high.
+	 	    		Just kidding, it's after hours.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div class="third bord"><p>In front, across the street is a very large flat piazza fountain. I guess you could call
+	 	    it that. There is a sort of similar one in Government Center in Boston if you've seen that.</p>
 
 	 	    </div>
-	 	  	<div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	  	<div class="third"><p>You can also hop a tram from here or anywhere really in Geneva and go out to Cern. Seems like a 
+	 	  	really appropriate class trip for us. Thanks Tim Berners Lee!</p>
 	 	    </div>
  		</div>
 		<div class="hundred">
