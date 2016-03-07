@@ -16,7 +16,7 @@
    		</div>
 
  		<div class="hundred">
-			<img src="images/boat.jpg">
+			<img src="images/home.jpg">
  	    </div>
 
     </div>
