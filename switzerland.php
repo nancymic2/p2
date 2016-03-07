@@ -78,8 +78,8 @@ With a few red lights, a few old beds
 	 	    </div>
 	 	    <div class="third bord"><p>We made a place to sweat
 No matter what we get out of this
-I know, I know we'll never forget. Smoke on the water, a fire in the sky
-Smoke on the water...</p>
+I know, I know we'll never forget. <a href="https://youtu.be/zUwEIt9ez7M">Smoke on the water, a fire in the sky
+Smoke on the water...</a></p>
 
 	 	    </div>
 	 	  	<div class="third"><p>As you might guess, this very old song by Deep Purple is about Montreux on Laake Geneva. Montreux is also
