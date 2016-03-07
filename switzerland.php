@@ -83,7 +83,7 @@ Smoke on the water...</p>
 
 	 	    </div>
 	 	  	<div class="third"><p>As you might guess, this very old song by Deep Purple is about Montreux on Laake Geneva. Montreux is also
-home to a number of music festivals.</p><p>This is the Grand Hotel, and the Casino above is the rebuilt casino. It's all true.</p></div>
+home to a number of music festivals.<br>This is the Grand Hotel, and the Casino above is the rebuilt casino. It's all true.</p></div>
  		</div>
 <div class="hundred">
 			<img src="images/un.jpg">
