@@ -1,14 +1,14 @@
 
-document.ready=function(){
+window.onload=function(){
 
 	sizeit();
 	document.getElementById('hamburger').addEventListener('click', getmenu, false);
-}
+};
 
 window.onresize=function(){
 
 	sizeit();
-}
+};
 
 
 function sizeit() {
