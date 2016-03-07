@@ -1,5 +1,5 @@
 
-window.onpageshow=function(){
+document.ready=function(){
 
 	sizeit();
 	document.getElementById('hamburger').addEventListener('click', getmenu, false);
