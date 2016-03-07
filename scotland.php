@@ -11,9 +11,9 @@
 <div class="hundred title" id="titlebar">Scotland</div>
  	    <div class="hundred">
 		<img src="images/crescent.jpg" 
-			 class="serveImg" data-small="images/crescentsmall.jpg" 
+			 class="serveImg" data-small="images/crescentSmall.jpg" 
 			data-large="images/crescent.jpg" 
-			data-med="images/crescentmed.jpg">
+			data-med="images/crescentMed.jpg">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third"><p>One of the many crescent-shaped terrace developments in Edinburgh. Edinburgh is known for its 18th Century
@@ -66,9 +66,7 @@
  		</div>
 		<div class="hundred">
 			<img src="images/jenners.jpg"
-			 class="serveImg" data-small="images/backhandCred.jpg" 
-			data-large="images/jenners.jpg" 
-			data-med="images/backhandMed.jpg">
+			 class="serveImg" data-small="images/jennersSmall.jpg" data-large="images/jenners.jpg" data-med="images/jennersMed.jpg">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><p>This is Jenners Department Store on Princes Street all decked out for Christmas. Princes Street
