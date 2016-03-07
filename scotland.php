@@ -11,9 +11,9 @@
 <div class="hundred title" id="titlebar">Scotland</div>
  	    <div class="hundred">
 		<img src="images/crescent.jpg" 
-			 class="serveImg" data-small="images/backhandCred.jpg" 
+			 class="serveImg" data-small="images/crescentsmall.jpg" 
 			data-large="images/crescent.jpg" 
-			data-med="images/backhandMed.jpg">
+			data-med="images/crescentmed.jpg">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third"><p>One of the many crescent-shaped terrace developments in Edinburgh. Edinburgh is known for its 18th Century
@@ -32,9 +32,9 @@
 
  		<div class="hundred">
 		<img src="images/northSea.jpg" 			
-			 class="serveImg" data-small="images/backhandCred.jpg" 
+			 class="serveImg" data-small="images/northSeaSmall.jpg" 
 			data-large="images/northSea.jpg" 
-			data-med="images/backhandMed.jpg">
+			data-med="images/northSeaMed.jpg">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><p>This is one of my favorite photos from Scotland. This is Leith, where Her Majesty's 
@@ -50,9 +50,9 @@
  		</div>
  				<div class="hundred">
 			<img src="images/britannia.jpg"			
-			 class="serveImg" data-small="images/backhandCred.jpg" 
+			 class="serveImg" data-small="images/britanniaSmall.jpg" 
 			data-large="images/britannia.jpg" 
-			data-med="images/backhandMed.jpg">
+			data-med="images/britanniaMed.jpg">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"> <p>Leith is just outside the edge of Edinburgh. There are busses that run there from the city center.
