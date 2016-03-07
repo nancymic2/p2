@@ -35,7 +35,7 @@
 	 	    	<p>This is Montreux, as are two photos below. They refer to it as the Swiss Riviera, and with good reason as you can see. Sans
 	 	    		the ocean beaches.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Those are the Apls. I am in love with the Alps. From my hotel in Geneva, and everywhere, you
+	 	    <div class="third bord"><p>Those are the Apls. I am in love with the Alpes. From my hotel in Geneva, and everywhere, you
 	 	    	can see Mont Blanc.</p>
 	 	    </div>
 	 	    <div class="third"><p>
@@ -123,7 +123,8 @@ home to a number of music festivals.<br>This is the Grand Hotel, and the Casino 
 	 	    aren't many hotels. Then I went to Montreux. Case closed.</p>
 
 	 	    </div>
-	 	  <div class="third"><p>The area around Geneva has great transportation (it runs on time, it's not Italy!) is pretty orderly, the Apls
+	 	  <div class="third"><p>The area around Geneva has great transportation (it runs on time, it's not Italy!) is pretty
+	 	   orderly, the Alpes 
 	 	  	are there and French is spoken. Good enough reasons to go.</p>
 	 	    </div>
  		</div>
