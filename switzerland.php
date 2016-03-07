@@ -13,12 +13,18 @@
 			<img src="images/rhoneGeneva2.jpg">
  	    </div>
  	    <div class="middle">
-	 	    <div  class="third"><img alt="switzerland"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third">
+	 	    	<p>This is Geneva. Where the Rhone meets Lake Geneva. In the background you can see L'Eau, the huge fountain
+	 	    		that looks like Ol' Faithful. Geneva is expensive. I believe when I was there a typical base wage was $25 and there were 
+	 	    		protests not to institue a minumum wage. A Macdonalds burger is about $20.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div class="third bord"><p>
+	 	    Geneva is kind of a boring city, I think. It has its advantages though. It is close to a lot of cool destinations all around 
+	 	    the lake, such as Lausanne, Vevey, and others.</p>
 
 	 	    </div>
-	 	  	<div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	  	<div class="third"><p>Lake Geneva is split down the middle between France and Switzerland. Geneva has great transportation and the
+	 	  	airport is about 15 minutes on very nice trains from the city center. Very nice feature. However</p>
 	 	    </div>
  		</div>
  	    <div class="hundred">
