@@ -3,6 +3,7 @@ window.onload=function(){
 
 	sizeit();
 	//document.getElementById('hamburger').addEventListener('click', getmenu, false);
+	//moved event listener inline because pages are so big
 };
 
 window.onresize=function(){
