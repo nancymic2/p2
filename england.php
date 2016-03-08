@@ -14,12 +14,15 @@
 		<img src="images/radcliffe.jpg">
  	    </div>
  	    <div class="middle">
-	 	    <div  class="third"><img alt="england"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
+	 	    <div  class="third">
+	 	    <p>This is Radcliffe Camera in Oxford. It is the main building housing the collections of the Bodleian Library, though
+	 	    	I am not completely sure today. 
 	 	    </div>
-	 	    <div class="third bord"><p>Roger Federer September 18, 2013. Preparing his backhand. Note the grip and stance. This is the right way to set up for a one-hand backhand. Note hpw Federer cradles the throat of the racquet in his left hand.</p>
+	 	    <div class="third bord"><p>The building was designed by James Gibbs, and is one of few of that period, it seems, that was
+	 	    not designed by Christopher Wren.</p>
 
 	 	    </div>
-	 	    <div class="third"><p>From wikimedia free to use. <a href="https://commons.wikimedia.org/wiki/File:Federer_RG13_(62)_(9410842993).jpg" target="_blank">Photo</a></p>
+	 	    <div class="third"><p>Fk">I don't know what to say about Oxford. There is nothing like it, except for Rome. I keep going back.</p>
 	 	    </div>
  		</div>
 
