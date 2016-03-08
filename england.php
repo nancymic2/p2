@@ -22,7 +22,7 @@
 	 	    not designed by Christopher Wren.</p>
 
 	 	    </div>
-	 	    <div class="third"><p>Fk">I don't know what to say about Oxford. There is nothing like it, except for Rome. I keep going back.</p>
+	 	    <div class="third"><p>I don't know what to say about Oxford. There is nothing like it, except for Rome. I keep going back.</p>
 	 	    </div>
  		</div>
 
