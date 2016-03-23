@@ -38,8 +38,8 @@ p {
   padding-left: 1em; }
 
 /*.bord {
-	border-right: 1px dotted $gray;
-	padding-right: 1.5em;
+  border-right: 1px dotted $gray;
+  padding-right: 1.5em;
 }*/
 #hamburger {
   position: relative;
@@ -65,18 +65,17 @@ a:hover {
 img {
   max-width: 100%; }
 
-/* NESTING */
 #nav {
   height: 60px;
   background-color: black;
   border-top: 1px solid #ffffff;
   border-bottom: 1px solid #ffffff; }
-  #nav li {
-    text-decoration: none;
-    display: inline;
-    padding-right: 3em; }
 
-/* END NESTING */
+#nav li {
+  text-decoration: none;
+  display: inline;
+  padding-right: 3em; }
+
 #header1 {
   background-color: black;
   color: #ffffff;
@@ -142,7 +141,6 @@ img {
 .space {
   margin-bottom: 10px; }
 
-/* NESTING */
 #smallnav {
   display: none;
   width: 200px;
@@ -151,16 +149,17 @@ img {
   top: 90px;
   left: 8px;
   background-color: rgba(89, 158, 208, 0.9); }
-  #smallnav #smallnav ul a {
-    display: block;
-    padding: 20px 20px 20px;
-    border-bottom: 1px solid gray;
-    text-decoration: none; }
-  #smallnav #smallnav ul li {
-    text-decoration: none;
-    display: block; }
 
-/* END NESTING */
+#smallnav ul a {
+  display: block;
+  padding: 20px 20px 20px;
+  border-bottom: 1px solid gray;
+  text-decoration: none; }
+
+#smallnav ul li {
+  text-decoration: none;
+  display: block; }
+
 #home {
   height: 10em;
   padding: 2em;
@@ -293,18 +292,16 @@ img {
   .twothird {
     width: 100%; }
 
+  #nav ul li {
+    display: block;
+    padding-top: 7px; }
+
   #ball {
     display: none; }
 
-  /* NESTING */
   #nav ul {
     height: auto;
-    display: none; }
-    #nav ul li {
-      display: block;
-      padding-top: 7px; }
-
-  /* END NESTING */ }
+    display: none; } }
 @media screen and (max-width: 412px) {
   #headline {
     font-size: .7em; }
