@@ -1,59 +1,6 @@
-/* VARIABLES  */
+@import "variables";
+@import "mixins";
 
-$backgr-color: #599ed0;
-$white: #ffffff;
-$space: 10px;
-$gray: #dddddd;
-$one-em: 1em;
-$hund-perct: 100%;
-$twpx: 20px;
-$purple: purple;
-$thirty: 33.33%;
-
-
-/* END VARIABLES  */
-
-/* MIXINS */
-@mixin bgcol ($float) {
-  float: $float;
-  @if $float==right {
-    float: right;
-    background-color: black;
-    color: pink;
-    font-size: .8em;
-    clear: right;
-    padding: 10px;
-    margin-right: 40px;
-    margin-bottom: 13px;
-
-  }
-  @else {
-    float: left;
-    background-color: pink;
-     margin-left: 40px;
-     font-size: .8em;
-         padding: 10px;
-    
-  }
-}
-
-@mixin headline ($hed) {
-  hed: $hed;
-  @if $hed==three {
-    color: desaturate($purple, 30%);
-    font-size: 1.4em;
-    font-family: "Times New Roman", Georgia, Serif;
-
-  }
-  @else {
-    color: blue;
-    font-size: 1.8em;
-    font-family: "Verdana", sans-serif;
-    
-  }
-}
-
-/* END MIXINS  */
 
 html {
   box-sizing: border-box;
