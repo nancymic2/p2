@@ -24,6 +24,7 @@ body {
   font-family: 'Satisfy', cursive;
   height: 1.3em; }
 
+/* MIXIN USE */
 .leftdiv {
   width: 43%;
   float: left;
@@ -57,6 +58,14 @@ h4 {
   font-size: 1.8em;
   font-family: "Verdana", sans-serif; }
 
+/* END MIXIN USE */
+/* EXTEND */
+#par1, #par2 {
+  font-weight: 500;
+  font-style: oblique;
+  line-height: 98%; }
+
+/* END EXTEND */
 .right {
   float: right;
   padding: 7px; }
@@ -172,6 +181,7 @@ img {
   float: left; }
 
 .twothird {
+  /* MATH */
   width: 67%;
   background-color: #ffffff;
   float: left;

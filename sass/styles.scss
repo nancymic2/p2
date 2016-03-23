@@ -85,6 +85,8 @@ body {
 
 }
 
+/* MIXIN USE */
+
 .leftdiv {
 
 width: 43%;
@@ -105,6 +107,19 @@ h4 {
 @include headline(four);
 }
 
+/* END MIXIN USE */
+
+/* EXTEND */
+#par1 {
+font-weight: 500;
+font-style: oblique;
+line-height: 98%;
+}
+
+#par2 {
+@extend #par1;
+}
+/* END EXTEND */
 
 .right {
   float: right;
@@ -238,6 +253,7 @@ img {
 
 }
 .twothird {
+  /* MATH */
   width: ceil($thirty*2);
   background-color: $white;
 
