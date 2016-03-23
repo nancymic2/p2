@@ -28,7 +28,8 @@ body {
   float: left;
   background-color: pink;
   margin-left: 40px;
-  font-size: .8em; }
+  font-size: .8em;
+  clear: both; }
 
 .rightdiv {
   width: 40%;
