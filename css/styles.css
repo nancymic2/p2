@@ -38,7 +38,7 @@ body {
   background-color: black;
   color: pink;
   font-size: .8em;
-  clear: right;
+  clear: both;
   padding: 10px;
   margin-right: 40px; }
 
