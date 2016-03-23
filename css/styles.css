@@ -92,7 +92,7 @@ img {
   width: 960px;
   background-color: #ffffff;
   margin: 0px auto;
-  border: 1px dotted #909090; }
+  border: 1px dotted #9d9d9d; }
 
 #header {
   clear: left;
@@ -104,7 +104,7 @@ img {
 #footer {
   clear: left;
   width: 100%;
-  background-color: #909090;
+  background-color: #9d9d9d;
   height: 75px;
   border-top: 1px solid #ffffff;
   padding-top: 1.5em;

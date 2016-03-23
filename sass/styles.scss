@@ -115,7 +115,7 @@ img {
 	width: 960px;
 	background-color: $white;
 	margin: 0px auto;
-	border: 1px dotted $ltgray;
+	border: 1px dotted darken($gray, 25%);
 }
 
 #header {
@@ -128,7 +128,7 @@ img {
 #footer {
 	clear: left;
 	width: $hund-perct;
-	background-color: $ltgray;
+	background-color: darken($gray, 25%);
 	height: 75px;
 	border-top: 1px solid $white;
 	padding-top: 1.5em;
