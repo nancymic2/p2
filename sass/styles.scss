@@ -238,7 +238,7 @@ img {
 
 }
 .twothird {
-  width: floor($thirty*2);
+  width: ceil($thirty*2);
   background-color: $white;
 
   float: left;
