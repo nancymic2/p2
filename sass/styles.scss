@@ -366,10 +366,12 @@ ul a {
   .leftdiv {
     width: $hund-perct;
     float: none;
+    clear: both;
   }
   .rightdiv {
      width: $hund-perct;
     float: none;
+    clear: both;
   }
 
   #hamburger {
@@ -456,12 +458,14 @@ ul a {
     .leftdiv {
     width: $hund-perct;
     float: none;
+    clear: both;
   }
   .rightdiv {
      width: $hund-perct;
     float: none;
+    clear: both;
   }
-  
+
   #headline {
   font-size: .7em;
   }
