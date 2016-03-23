@@ -145,11 +145,10 @@ img {
   display: none;
   width: 200px;
   z-index: 10;
-  opacity: .9;
   position: absolute;
   top: 90px;
   left: 8px;
-  background-color: #599ed0; }
+  background-color: rgba(89, 158, 208, 0.2); }
 
 #smallnav ul a {
   display: block;

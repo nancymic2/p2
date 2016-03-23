@@ -4,7 +4,6 @@ $backgr-color: #599ed0;
 $white: #ffffff;
 $space: 10px;
 $gray: #dddddd;
-$ltgray: #909090;
 $one-em: 1em;
 $hund-perct: 100%;
 $twpx: 20px;
@@ -180,11 +179,11 @@ img {
 	display: none;
 	width: 200px;
 	z-index: 10;
-	opacity: .9;
+	
 	position: absolute;
 	top: 90px;
 	left: 8px;
-	background-color: $backgr-color;
+	background-color: transparentize($backgr-color, .8);
 
 }
 #smallnav ul a {
