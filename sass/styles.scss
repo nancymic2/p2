@@ -175,6 +175,7 @@ img {
     margin-bottom: $space;
   }
 
+/* NESTING  */
 #smallnav {
   display: none;
   width: 200px;
@@ -185,18 +186,20 @@ img {
   left: 8px;
   background-color: transparentize($backgr-color, .1);
 
-}
-#smallnav ul a {
+
+ul a {
   display: block;
   padding: $twpx $twpx $twpx;
   border-bottom: 1px solid gray;
   text-decoration: none;
   }
 
-  #smallnav ul li {
+  ul li {
   text-decoration: none;
   display: block;
 }
+}
+/* NESTING END */
 
 #home {
   height: 10em;

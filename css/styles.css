@@ -141,6 +141,7 @@ img {
 .space {
   margin-bottom: 10px; }
 
+/* NESTING  */
 #smallnav {
   display: none;
   width: 200px;
@@ -149,17 +150,16 @@ img {
   top: 90px;
   left: 8px;
   background-color: rgba(89, 158, 208, 0.9); }
+  #smallnav ul a {
+    display: block;
+    padding: 20px 20px 20px;
+    border-bottom: 1px solid gray;
+    text-decoration: none; }
+  #smallnav ul li {
+    text-decoration: none;
+    display: block; }
 
-#smallnav ul a {
-  display: block;
-  padding: 20px 20px 20px;
-  border-bottom: 1px solid gray;
-  text-decoration: none; }
-
-#smallnav ul li {
-  text-decoration: none;
-  display: block; }
-
+/* NESTING END */
 #home {
   height: 10em;
   padding: 2em;
