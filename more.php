@@ -14,7 +14,7 @@
  
 <div class="leftdiv">
 Purus praesent consequat nibh purus non mi dictum curabitur, diam egestas eleifend fusce dapibus aptent placerat donec curabitur, blandit faucibus mollis netus duis erat ultrices. Curae sem habitasse erat facilisis aptent vel lobortis scelerisque, turpis nam ad nisl tempor quam pretium fermentum, fringilla mollis amet primis fusce est dui. Tellus accumsan elit tempor 
-<img src="images/pointright.jpg">
+<img src="images/pointright.jpg" class="left">
 
 interdum quisque torquent mattis elementum imperdiet dui, viverra molestie per etiam curabitur nunc sodales orci nisl, proin porta vehicula integer felis bibendum congue maecenas feugiat. Consequat venenatis varius scelerisque leo scelerisque, platea ultrices venenatis platea aliquam imperdiet, ligula aliquam nisi urna. Pellentesque in nisl nullam sagittis lectus augue morbi himenaeos, eros lobortis felis vestibulum nulla conubia praesent non gravida, adipiscing vestibulum elit vulputate class accumsan felis. Himenaeos nullam fermentum vulputate ornare dapibus potenti quisque blandit, dictumst aenean dictumst conubia cras nullam inceptos tellus, vestibulum metus viverra adipiscing aliquet euismod aliquet.
 </div>
