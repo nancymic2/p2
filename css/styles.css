@@ -367,6 +367,7 @@ img {
 @media screen and (min-width: 413px) and (max-width: 640px) {
   .leftdiv {
     width: 100%;
+    padding-left: 0px;
   }
 
   .rightdiv {
@@ -447,6 +448,7 @@ img {
 @media screen and (max-width: 412px) {
   .leftdiv {
     width: 100%;
+    padding-left: 0px;
   }
 
   .rightdiv {
