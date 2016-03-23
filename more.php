@@ -25,7 +25,7 @@ Feugiat nullam duis phasellus urna pharetra ad, dictumst eleifend dui nam sollic
 
 <img src="images/pointleft.jpg" class="right">
 
- vitae lectus habitasse sodales inceptos, massa venenatis pharetra mollis morbi suspendisse at vel erat, ut nisl pulvinar interdum ultricies interdum per auctor egestas. Consequat dictum cursus consectetur ut lectus scelerisque felis sem, consequat in netus scelerisque ut nullam amet accumsan, augue consectetur nunc aenean porta aptent sodales. Auctor magna eget torquent eget mauris hendrerit vestibulum nulla mattis, lectus consequat non curae sapien est sodales. Elit consequat mattis convallis aliquet phasellus tempor vehicula habitant maecenas lectus hac, maecenas curabitur mi tristique volutpat mi sollicitudin sapien himenaeos nisi, interdum sodales sociosqu ut ultricies nam ultrices purus velit ad.
+ vitae lectus habitasse sodales inceptos, massa venenatis pharetra mollis morbi suspendisse at vel erat, ut nisl pulvinar interdum ultricies interdum per auctor egestas. Consequat dictum cursus consectetur ut lectus scelerisque felis sem, consequat in netus scelerisque ut nullam amet accumsan, augue consectetur nunc aenean porta aptent sodales. Auctor magna eget torquent eget mauris hendrerit vestibulum nulla mattis, lectus consequat non curae sapien est sodales. Elit consequat mattis convallis aliquet phasellus.
 </div>
 
     </div>
