@@ -292,15 +292,16 @@ img {
   .twothird {
     width: 100%; }
 
-  #nav ul li {
-    display: block;
-    padding-top: 7px; }
-
-  #ball {
-    display: none; }
-
+  /* NEST */
   #nav ul {
     height: auto;
+    display: none; }
+    #nav ul li {
+      display: block;
+      padding-top: 7px; }
+
+  /* END NEST */
+  #ball {
     display: none; } }
 @media screen and (max-width: 412px) {
   #headline {
