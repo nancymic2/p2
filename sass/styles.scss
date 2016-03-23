@@ -362,18 +362,6 @@ ul a {
 }
 /*-----------------------------------------------*/
 @media screen and (min-width:413px) and (max-width:640px) {
-
-  .leftdiv {
-    width: $hund-perct;
-    float: none;
-    clear: both;
-  }
-  .rightdiv {
-     width: $hund-perct;
-    float: none;
-    clear: both;
-  }
-
   #hamburger {
     display: block;
   }
@@ -455,15 +443,6 @@ ul a {
 }
 
 @media screen and (max-width:412px) {
-    .leftdiv {
-    width: $hund-perct;
-    float: none;
-  }
-  .rightdiv {
-     width: $hund-perct;
-    float: none;
-  }
-
   #headline {
   font-size: .7em;
   }
