@@ -8,6 +8,7 @@ $one-em: 1em;
 $hund-perct: 100%;
 $twpx: 20px;
 $purple: purple;
+$thirty: 33.33%;
 
 
 /* END VARIABLES  */
@@ -221,7 +222,7 @@ img {
 }
 
 .third {
-  width:33.333%;
+  width: $thirty;
   float: left;
   border-right: 1px dotted $gray;
   border-left: 1px dotted $gray;
@@ -237,7 +238,7 @@ img {
 
 }
 .twothird {
-  width:66.666%;
+  width: floor($thirty*2);
   background-color: $white;
 
   float: left;
@@ -324,6 +325,7 @@ ul a {
 
   .twothird {
     width:67%;
+    /*maybe add here */
 
     float: left;
   }
