@@ -13,6 +13,7 @@
  	<div id="middle"> 
  
 <div class="leftdiv">
+<h4>Right Signs</h4>
 Purus praesent consequat nibh purus non mi dictum curabitur, diam egestas eleifend fusce dapibus aptent placerat donec curabitur, blandit faucibus mollis netus duis erat ultrices. Curae sem habitasse erat facilisis aptent vel lobortis scelerisque, turpis nam ad nisl tempor quam pretium fermentum, fringilla mollis amet primis fusce est dui. Tellus accumsan elit tempor 
 <img src="images/pointright.jpg" class="left">
 
@@ -21,6 +22,7 @@ interdum quisque torquent mattis elementum imperdiet dui, viverra molestie per e
 
 
 <div class="rightdiv">
+<h3>Left Signs</h3>
 Feugiat nullam duis phasellus urna pharetra ad, dictumst eleifend dui nam sollicitudin, cubilia dolor vulputate mattis vivamus. Volutpat elementum nostra consectetur torquent lacus vestibulum, nisl mi quisque semper tellus praesent posuere, quis pellentesque et dapibus posuere. Platea quis torquent ullamcorper commodo sem nec diam volutpat ipsum, maecenas at eros maecenas lorem etiam morbi eu, lobortis tristique arcu laoreet conubia tellus amet velit. Habitant vivamus vestibulum hac egestas potenti
 
 <img src="images/pointleft.jpg" class="right">

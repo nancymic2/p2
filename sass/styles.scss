@@ -8,6 +8,7 @@ $one-em: 1em;
 $hund-perct: 100%;
 $twpx: 20px;
 
+
 /* END VARIABLES  */
 @mixin bgcol ($float) {
   float: $float;
@@ -32,6 +33,22 @@ $twpx: 20px;
   }
 }
 
+@mixin headline ($hed) {
+  hed: $hed;
+  @if $hed==three {
+
+    color: red;
+    font-size: 1.5em;
+    font-family: "Times New Roman", Georgia, Serif;
+
+  }
+  @else {
+    color: blue;
+    font-size: 1.2em;
+    font-family: "Verdana", sans-serif;
+    
+  }
+}
 
 
 
@@ -76,6 +93,16 @@ width: 43%;
 width: 43%;
 @include bgcol(right);
 }
+
+h3 {
+@include headline(three);
+}
+
+h4 {
+@include headline(four);
+}
+
+
 .right {
   float: right;
   padding: 7px;
