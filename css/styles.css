@@ -28,7 +28,12 @@ body {
 
 .rightdiv {
   float: right;
-  width: 40%; }
+  width: 40%;
+  float: right;
+  background-color: black;
+  color: pink;
+  font-size: .8em;
+  clear: both; }
 
 #home {
   height: 10em;

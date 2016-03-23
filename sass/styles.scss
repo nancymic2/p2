@@ -9,6 +9,19 @@ $hund-perct: 100%;
 $twpx: 20px;
 
 /* END VARIABLES  */
+@mixin bgcol ($float) {
+  float: $float;
+  @if $float==right {
+    background-color: black;
+    color: pink;
+    font-size: .8em;
+    clear: both;
+
+  }
+}
+
+
+
 
 html {
   box-sizing: border-box;
@@ -48,6 +61,7 @@ width: 40%;
 .rightdiv {
 float: right;
 width: 40%;
+@include bgcol(right);
 }
 
 #home {
