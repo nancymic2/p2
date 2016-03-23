@@ -40,13 +40,13 @@ $purple: purple;
   hed: $hed;
   @if $hed==three {
     color: desaturate($purple, 30%);
-    font-size: 1.2em;
+    font-size: 1.4em;
     font-family: "Times New Roman", Georgia, Serif;
 
   }
   @else {
     color: blue;
-    font-size: 1.7em;
+    font-size: 1.8em;
     font-family: "Verdana", sans-serif;
     
   }
