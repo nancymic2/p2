@@ -12,12 +12,17 @@ $twpx: 20px;
 @mixin bgcol ($float) {
   float: $float;
   @if $float==right {
+    float: right;
     background-color: black;
     color: pink;
     font-size: .8em;
     clear: right;
     padding: 10px;
 
+  }
+  @else {
+    float: left;
+    background-color: yellow;
   }
 }
 
@@ -55,12 +60,13 @@ body {
 }
 
 .leftdiv {
-float: left;
+
 width: 40%;
+@include bgcol(left);
 }
 
 .rightdiv {
-float: right;
+
 width: 40%;
 @include bgcol(right);
 }

@@ -23,12 +23,14 @@ body {
   height: 1.3em; }
 
 .leftdiv {
+  width: 40%;
   float: left;
-  width: 40%; }
+  float: left;
+  background-color: yellow; }
 
 .rightdiv {
-  float: right;
   width: 40%;
+  float: right;
   float: right;
   background-color: black;
   color: pink;
