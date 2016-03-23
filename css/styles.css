@@ -39,7 +39,8 @@ body {
   font-size: .8em;
   clear: right;
   padding: 10px;
-  margin-right: 40px; }
+  margin-right: 40px;
+  margin-bottom: 3px; }
 
 .right {
   float: right;
