@@ -18,11 +18,13 @@ $twpx: 20px;
     font-size: .8em;
     clear: right;
     padding: 10px;
+    margin-right: 40px;
 
   }
   @else {
     float: left;
     background-color: yellow;
+     margin-left: 40px;
   }
 }
 

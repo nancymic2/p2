@@ -26,7 +26,8 @@ body {
   width: 40%;
   float: left;
   float: left;
-  background-color: yellow; }
+  background-color: yellow;
+  margin-left: 40px; }
 
 .rightdiv {
   width: 40%;
@@ -36,7 +37,8 @@ body {
   color: pink;
   font-size: .8em;
   clear: right;
-  padding: 10px; }
+  padding: 10px;
+  margin-right: 40px; }
 
 #home {
   height: 10em;
