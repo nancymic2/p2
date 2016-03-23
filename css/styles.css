@@ -1,5 +1,7 @@
 /* VARIABLES  */
 /* END VARIABLES  */
+/* MIXINS */
+/* END MIXINS  */
 html {
   box-sizing: border-box; }
 
@@ -46,13 +48,13 @@ body {
 h3 {
   hed: three;
   color: red;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-family: "Times New Roman", Georgia, Serif; }
 
 h4 {
   hed: four;
   color: blue;
-  font-size: 1.2em;
+  font-size: 1.7em;
   font-family: "Verdana", sans-serif; }
 
 .right {
