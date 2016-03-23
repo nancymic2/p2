@@ -23,7 +23,7 @@ body {
   height: 1.3em; }
 
 .leftdiv {
-  width: 40%;
+  width: 43%;
   float: left;
   float: left;
   background-color: pink;
@@ -31,7 +31,7 @@ body {
   font-size: .8em; }
 
 .rightdiv {
-  width: 40%;
+  width: 43%;
   float: right;
   float: right;
   background-color: black;
