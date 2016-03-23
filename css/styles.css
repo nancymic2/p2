@@ -33,7 +33,8 @@ body {
   background-color: black;
   color: pink;
   font-size: .8em;
-  clear: right; }
+  clear: right;
+  padding: 10px; }
 
 #home {
   height: 10em;
