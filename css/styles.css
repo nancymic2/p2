@@ -452,14 +452,11 @@ img {
   .leftdiv {
     width: 100%;
     float: none;
-    clear: both;
-    margin-left: 0px;
   }
 
   .rightdiv {
     width: 100%;
     float: none;
-    clear: both;
   }
 
   #headline {
