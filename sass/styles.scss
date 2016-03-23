@@ -28,8 +28,12 @@ body {
   background-color: transparentize($backgr-color, .1);
   padding-left: $one-em;
   font-size: 2.5em;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  /* NESTING */
+    margin: {
+       top: 30px;
+       bottom: 30px;
+    }
+    /* END NESTING */
   font-family: 'Satisfy', cursive;
  
   height: 1.3em;
