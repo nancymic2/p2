@@ -40,6 +40,9 @@ body {
   padding: 10px;
   margin-right: 40px; }
 
+.right {
+  float: right; }
+
 #home {
   height: 10em;
   padding: 2em;

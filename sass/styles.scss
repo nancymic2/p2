@@ -72,7 +72,9 @@ width: 40%;
 width: 40%;
 @include bgcol(right);
 }
-
+.right {
+  float: right;
+}
 #home {
   height: 10em;
   padding: 2em;
