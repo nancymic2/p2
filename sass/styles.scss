@@ -24,13 +24,14 @@ body {
 
 #titlebar {
   color: #f90075;
-  background-color: $backgr-color;
+  /* FUNCTION */
+  background-color: transparentize($backgr-color, .1);
   padding-left: $one-em;
   font-size: 2.5em;
   margin-top: 30px;
   margin-bottom: 30px;
   font-family: 'Satisfy', cursive;
-  opacity: 0.9;
+ 
   height: 1.3em;
 
 }
@@ -184,6 +185,7 @@ img {
   position: absolute;
   top: 90px;
   left: 8px;
+    /* FUNCTION */
   background-color: transparentize($backgr-color, .1);
 
 

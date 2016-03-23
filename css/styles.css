@@ -11,13 +11,13 @@ body {
 
 #titlebar {
   color: #f90075;
-  background-color: #599ed0;
+  /* FUNCTION */
+  background-color: rgba(89, 158, 208, 0.9);
   padding-left: 1em;
   font-size: 2.5em;
   margin-top: 30px;
   margin-bottom: 30px;
   font-family: 'Satisfy', cursive;
-  opacity: 0.9;
   height: 1.3em; }
 
 #home {
@@ -149,6 +149,7 @@ img {
   position: absolute;
   top: 90px;
   left: 8px;
+  /* FUNCTION */
   background-color: rgba(89, 158, 208, 0.9); }
   #smallnav ul a {
     display: block;
