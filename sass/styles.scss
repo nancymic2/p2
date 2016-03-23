@@ -84,18 +84,23 @@ a:hover {
 img {
 	max-width: $hund-perct;
 }
+
+/* NESTING */
 #nav {
 	height: 60px;
 	background-color: black;
 	border-top: 1px solid $white;
 	border-bottom: 1px solid $white;
-}
-#nav li {
+
+ li {
 	text-decoration: none;
 	display: inline;
 	padding-right: 3em;
 
 }
+}
+
+/* END NESTING */
 
 #header1 {
 	background-color: black;
@@ -175,6 +180,7 @@ img {
 		margin-bottom: $space;
 	}
 
+/* NESTING */
 #smallnav {
 	display: none;
 	width: 200px;
@@ -185,7 +191,7 @@ img {
 	left: 8px;
 	background-color: transparentize($backgr-color, .1);
 
-}
+
 #smallnav ul a {
 	display: block;
 	padding: $twpx $twpx $twpx;
@@ -197,7 +203,8 @@ img {
 	text-decoration: none;
 	display: block;
 }
-
+}
+/* END NESTING */
 #home {
 	height: 10em;
 	padding: 2em;
@@ -287,7 +294,7 @@ img {
 	    height: 202px;
 
 	}
-#home {
+	#home {
 	height: 8em;
 	padding: 2em;
 	padding-left: 2em;
@@ -375,19 +382,22 @@ img {
 
 	}
 
-	#nav ul li {
-		display: block;
-		padding-top: 7px;
-	}
+
 	#ball {
 		display: none;
 	}
-
+/* NESTING */
 	#nav ul {
 		height: auto;
 		display: none;
 
+	
+		li {
+		display: block;
+		padding-top: 7px;
+		}
 	}
+	/* END NESTING */
 }
 
 @media screen and (max-width:412px) {
