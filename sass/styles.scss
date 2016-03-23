@@ -39,7 +39,7 @@ $purple: purple;
 @mixin headline ($hed) {
   hed: $hed;
   @if $hed==three {
-    color: saturate($purple, .8);
+    color: desaturate($purple, 10%);
     font-size: 1.2em;
     font-family: "Times New Roman", Georgia, Serif;
 
