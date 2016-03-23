@@ -97,7 +97,8 @@ img {
   border: 1px dotted #9d9d9d; }
 
 #header {
-  clear: left;
+  /* /////  */
+  clear: both;
   width: 100%;
   background-image: url("../images/bgBig.jpg");
   background-repeat: no-repeat;

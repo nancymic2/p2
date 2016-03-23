@@ -105,7 +105,7 @@ img {
 #header1 {
   background-color: black;
   color: $white;
-    font-family: 'Satisfy', cursive;
+  font-family: 'Satisfy', cursive;
   padding: $twpx;
   font-size: 3.3em;
   width: $hund-perct;
@@ -123,7 +123,8 @@ img {
 }
 
 #header {
-  clear: left;
+  /* /////  */
+  clear: both;
   width: $hund-perct;
   background-image: url("../images/bgBig.jpg");
   background-repeat: no-repeat;
@@ -289,8 +290,8 @@ ul a {
     font-size: $one-em;
   }
     #header {
-    clear: both;
-    width: $hund-perct;
+      clear: both;
+      width: $hund-perct;
       background-image: url("../images/bgMedLg.jpg");
       background-repeat: no-repeat;
       height: 202px;
@@ -347,8 +348,8 @@ ul a {
 
 
   #header {
-    clear: both;
-    width: $hund-perct;
+      clear: both;
+      width: $hund-perct;
       background-image: url("../images/bgMed2.jpg");
       background-repeat: no-repeat;
       height: 202px;
@@ -420,7 +421,7 @@ ul a {
   }
   #header {
       clear: both;
-    width: $hund-perct;
+      width: $hund-perct;
       background-image: url("../images/bgSmall.jpg");
       background-repeat: no-repeat;
       height: 102px;

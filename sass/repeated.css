@@ -1,0 +1,38 @@
+  #header {
+      clear: both;
+      width: $hund-perct;
+      background-repeat: no-repeat;
+
+      
+      background-image: url("../images/bgMed2.jpg");
+
+      height: 202px;
+
+  }
+
+    #header {
+      clear: both;
+      width: $hund-perct;
+      background-image: url("../images/bgSmall.jpg");
+      background-repeat: no-repeat;
+      height: 102px;
+
+  }
+
+  #header {
+  clear: left;
+  width: $hund-perct;
+  background-image: url("../images/bgBig.jpg");
+  background-repeat: no-repeat;
+  height: 259px;
+}
+
+    #header {
+      clear: both;
+      width: $hund-perct;
+      background-image: url("../images/bgMedLg.jpg");
+      background-repeat: no-repeat;
+      height: 202px;
+
+  }
+
