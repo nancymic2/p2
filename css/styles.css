@@ -365,6 +365,16 @@ img {
 }
 /*-----------------------------------------------*/
 @media screen and (min-width: 413px) and (max-width: 640px) {
+  .leftdiv {
+    width: 100%;
+    float: none;
+  }
+
+  .rightdiv {
+    width: 100%;
+    float: none;
+  }
+
   #hamburger {
     display: block;
   }
@@ -437,6 +447,16 @@ img {
   }
 }
 @media screen and (max-width: 412px) {
+  .leftdiv {
+    width: 100%;
+    float: none;
+  }
+
+  .rightdiv {
+    width: 100%;
+    float: none;
+  }
+
   #headline {
     font-size: .7em;
   }
