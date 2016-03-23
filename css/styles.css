@@ -26,8 +26,9 @@ body {
   width: 40%;
   float: left;
   float: left;
-  background-color: yellow;
-  margin-left: 40px; }
+  background-color: pink;
+  margin-left: 40px;
+  font-size: .8em; }
 
 .rightdiv {
   width: 40%;
