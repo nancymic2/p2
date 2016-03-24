@@ -1,6 +1,7 @@
 @import "variables";
 @import "mixins";
 @import "compass/css3/border-radius";
+@import "compass/css3/box-shadow";
 
 html {
   box-sizing: border-box;
@@ -40,6 +41,7 @@ width: 43%;
 @include bgcol(left);
 border: 2px solid red;
 @include border-radius(45px);
+@include box-shadow(pink 3px 3px 10px);
 }
 
 .rightdiv {
@@ -48,6 +50,8 @@ width: 43%;
 @include bgcol(right);
 border: 3px solid red;
 @include border-radius(35px);
+  @include box-shadow(rgba(blue, 0.4) 0 0 25px, rgba(purple, 0.2) 1 1 4px 2px inset);
+
 }
 
 h3 {
