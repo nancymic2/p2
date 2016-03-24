@@ -14,20 +14,48 @@
  
 <div class="leftdiv">
 <h4>Right Signs</h4>
-<p id="par1">Purus praesent consequat nibh purus non mi dictum curabitur, diam egestas eleifend fusce dapibus aptent placerat donec curabitur, blandit faucibus mollis netus duis erat ultrices. Curae sem habitasse erat facilisis aptent vel lobortis scelerisque, turpis nam ad nisl tempor quam pretium fermentum, fringilla mollis amet primis fusce est dui. Tellus accumsan elit tempor 
+<p id="par1">And the sign said "Long-haired freaky people need not apply"
+So I tucked my hair up under my hat and I went in to ask him why
+He said "You look like a fine upstanding young man, I think you'll do"
+So I took off my hat, I said "Imagine that. Huh! Me workin' for you!"
+Whoa-oh-oh
+Sign, sign, everywhere a sign
+Blockin' out the scenery, breakin' my mind
 <img src="images/pointright.jpg" class="left">
 
-interdum quisque torquent mattis elementum imperdiet dui, viverra molestie per etiam curabitur nunc sodales orci nisl, proin porta vehicula integer felis bibendum congue maecenas feugiat. Consequat venenatis varius scelerisque leo scelerisque, platea ultrices venenatis platea aliquam imperdiet, ligula aliquam nisi urna. Pellentesque in nisl nullam sagittis lectus augue morbi himenaeos, eros lobortis felis vestibulum nulla conubia praesent non gravida, adipiscing vestibulum elit vulputate class accumsan felis. Himenaeos nullam fermentum vulputate ornare dapibus potenti quisque blandit, dictumst aenean dictumst conubia cras nullam inceptos tellus, vestibulum metus viverra adipiscing aliquet euismod aliquet.</p>
+Do this, don't do that, can't you read the sign?
+And the sign said anybody caught trespassin' would be shot on sight
+So I jumped on the fence and-a yelled at the house, "Hey! What gives you the right?"
+"To put up a fence to keep me out or to keep mother nature in"
+"If God was here he'd tell you to your face, Man, you're some kinda sinner"
+Sign, sign, everywhere a sign
+Blockin' out the scenery, breakin' my mind.</p>
 </div>
 
 
 <div class="rightdiv">
 <h3>Left Signs</h3>
-<p id="par2">Feugiat nullam duis phasellus urna pharetra ad, dictumst eleifend dui nam sollicitudin, cubilia dolor vulputate mattis vivamus. Volutpat elementum nostra consectetur torquent lacus vestibulum, nisl mi quisque semper tellus praesent posuere, quis pellentesque et dapibus posuere. Platea quis torquent ullamcorper commodo sem nec diam volutpat ipsum, maecenas at eros maecenas lorem etiam morbi eu, lobortis tristique arcu laoreet conubia tellus amet velit. Habitant vivamus vestibulum hac egestas potenti
-
-<img src="images/pointleft.jpg" class="right">
-
- vitae lectus habitasse sodales inceptos, massa venenatis pharetra mollis morbi suspendisse at vel erat, ut nisl pulvinar interdum ultricies interdum per auctor egestas. Consequat dictum cursus consectetur ut lectus scelerisque felis sem, consequat in netus scelerisque ut nullam amet accumsan, augue consectetur nunc aenean porta aptent sodales. Auctor magna eget torquent eget mauris hendrerit vestibulum nulla mattis, lectus consequat non curae sapien est sodales. Elit consequat mattis convallis aliquet phasellus. Tharetra ad, dictumst eleifend dui nam sollicitudin, cubilia dolor vulputate mattis vivamus at eros maecenas lorem etiam morbi eu, lobortis tristique arcu laoreet conubia tellus amet velit. Habitant vivamus vestibulum hac egestas potenti.</p>
+<p id="par2"> 
+Do this, don't do that, can't you read the sign?
+Now, hey you, mister, can't you read?
+You've got to have a shirt and tie to get a seat
+You can't even watch, no you can't eat
+You ain't supposed to be here
+The sign said you got to have a membership card to get inside
+Ugh!
+[Lead Guitar]<img src="images/pointleft.jpg" class="right">
+And the sign said, "Everybody welcome. Come in, kneel down and pray"
+But when they passed around the plate at the end of it all, I didn't have a penny to pay
+So I got me a pen and a paper and I made up my own little sign
+I said, "Thank you, Lord, for thinkin' 'bout me. I'm alive and doin' fine."
+Wooo!
+Sign, sign, everywhere a sign
+Blockin' out the scenery, breakin' my mind
+Do this, don't do that, can't you read the sign?
+Sign, sign, everywhere a sign
+Sign
+Sign, sign
+</p>
 </div>
 
 
