@@ -10,7 +10,7 @@
  	<div id="middle">
 <div class="hundred title" id="titlebar">Scotland</div>
  	    <div class="hundred">
-		<img src="images/crescent.jpg" 
+		<img src="images/crescent.jpg" alt="scotland"
 			 class="serveImg" data-small="images/crescentSmall.jpg" 
 			data-large="images/crescent.jpg" 
 			data-med="images/crescentMed.jpg">
@@ -31,7 +31,7 @@
  		</div>
 
  		<div class="hundred">
-		<img src="images/northSea.jpg" 			
+		<img src="images/northSea.jpg" 	alt="scotland"		
 			 class="serveImg" data-small="images/northSeaSmall.jpg" 
 			data-large="images/northSea.jpg" 
 			data-med="images/northSeaMed.jpg">
@@ -52,7 +52,7 @@
 			<img src="images/britannia.jpg"			
 			 class="serveImg" data-small="images/britanniaSmall.jpg" 
 			data-large="images/britannia.jpg" 
-			data-med="images/britanniaMed.jpg">
+			data-med="images/britanniaMed.jpg" alt="scotland">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"> <p>Leith is just outside the edge of Edinburgh. There are busses that run there from the city center.
@@ -65,7 +65,7 @@
 	 	  	posted them.</p></div>
  		</div>
 		<div class="hundred">
-			<img src="images/jenners.jpg"
+			<img src="images/jenners.jpg" alt="scotland"
 			 class="serveImg" data-small="images/jennersSmall.jpg" data-large="images/jenners.jpg" data-med="images/jennersMed.jpg">
  	    </div>
  	     <div class="middle">

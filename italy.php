@@ -10,7 +10,7 @@
 	<div id="middle">
 		<div class="hundred title" id="titlebar">Italy</div>
 		<div class="hundred">
-			<img src="images/colloseo.jpg">
+			<img src="images/colloseo.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -24,7 +24,7 @@
  
 
  	    <div class="hundred">
-		<img src="images/portovenere.jpg">
+		<img src="images/portovenere.jpg" alt="italy">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -37,7 +37,7 @@
  		</div>
 
  		<div class="hundred">
-		<img src="images/vernazza.jpg">
+		<img src="images/vernazza.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -49,7 +49,7 @@
 	 	    </div>
  		</div>
  		 <div class="hundred">
-			<img src="images/fromvenezia.jpg">
+			<img src="images/fromvenezia.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -61,7 +61,7 @@
 	 	    </div>
  		</div>
  				<div class="hundred">
-			<img src="images/piazzaduomo.jpg">
+			<img src="images/piazzaduomo.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -73,7 +73,7 @@
 	 	    </div>
  		</div>
 		<div class="hundred">
-			<img src="images/varenna.jpg">
+			<img src="images/varenna.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -85,7 +85,7 @@
 	 	    </div>
  		</div>
 		<div class="hundred">
-			<img src="images/collo2.jpg">
+			<img src="images/collo2.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -98,7 +98,7 @@
  		</div>
 
 		<div class="hundred">
-			<img src="images/smalltemple.jpg">
+			<img src="images/smalltemple.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="italy"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">

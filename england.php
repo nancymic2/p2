@@ -11,7 +11,7 @@
  		<div class="hundred title" id="titlebar">England</div>
 
  	    <div class="hundred">
-		<img src="images/radcliffe.jpg">
+		<img src="images/radcliffe.jpg" alt="england">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third">
@@ -27,7 +27,7 @@
  		</div>
 
  		<div class="hundred">
-		<img src="images/sheldonian.jpg">
+		<img src="images/sheldonian.jpg" alt="england">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="england"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -40,7 +40,7 @@
  		</div>
 
 		<div class="hundred">
-			<img src="images/balliol.jpg">
+			<img src="images/balliol.jpg" alt="england">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="england"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -53,7 +53,7 @@
  		</div>
 
 <div class="hundred">
-			<img src="images/eye.jpg">
+			<img src="images/eye.jpg" alt="england">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="england"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
@@ -65,7 +65,7 @@
 	 	    </div>
  		</div>
  		<div class="hundred">
-			<img src="images/oxfordst.jpg">
+			<img src="images/oxfordst.jpg" alt="england">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third"><img alt="england"  class="space serveImg"  src="images/backhandCred.jpg" data-small="images/backhandCred.jpg" data-large="images/backhandCred.jpg" data-med="images/backhandMed.jpg">
