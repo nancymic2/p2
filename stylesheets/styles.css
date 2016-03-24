@@ -43,12 +43,12 @@ body {
   font-size: .8em;
   padding: 10px;
   border: 2px solid red;
-  -moz-border-radius-topleft: 35px;
-  -webkit-border-top-left-radius: 35px;
-  border-top-left-radius: 35px;
-  -moz-border-radius-bottomleft: 35px;
-  -webkit-border-bottom-left-radius: 35px;
-  border-bottom-left-radius: 35px;
+  -moz-border-radius-topleft: 45px;
+  -webkit-border-top-left-radius: 45px;
+  border-top-left-radius: 45px;
+  -moz-border-radius-bottomleft: 45px;
+  -webkit-border-bottom-left-radius: 45px;
+  border-bottom-left-radius: 45px;
   -moz-box-shadow: black 7px 7px 10px;
   -webkit-box-shadow: black 7px 7px 10px;
   box-shadow: black 7px 7px 10px;
