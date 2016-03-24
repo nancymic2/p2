@@ -46,9 +46,9 @@ body {
   -moz-border-radius: 45px;
   -webkit-border-radius: 45px;
   border-radius: 45px;
-  -moz-box-shadow: pink 3px 3px 10px;
-  -webkit-box-shadow: pink 3px 3px 10px;
-  box-shadow: pink 3px 3px 10px;
+  -moz-box-shadow: black 7px 7px 10px;
+  -webkit-box-shadow: black 7px 7px 10px;
+  box-shadow: black 7px 7px 10px;
 }
 
 /* line 47, ../sass/styles.scss */
