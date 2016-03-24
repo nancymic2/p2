@@ -1,0 +1,112 @@
+/* line 1, ../sass/css.scss */
+body {
+  font-family: "Arial",sans-Serif;
+  font-size: 18 px;
+  background-image: url("../images/back.jpg");
+  background-color: #cccccc;
+}
+
+/* line 11, ../sass/css.scss */
+#div1 {
+  background-color: white;
+  width: 270px;
+  margin-bottom: 60px;
+}
+
+/* line 17, ../sass/css.scss */
+#div2 {
+  background-color: white;
+  width: 320px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+/* line 28, ../sass/css.scss */
+#formdiv {
+  padding-bottom: 40px;
+  background-color: white;
+  width: 320px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 210px;
+}
+
+/* line 41, ../sass/css.scss */
+#light {
+  position: absolute;
+  left: 430px;
+  top: 50px;
+  z-index: 1;
+}
+
+/* line 55, ../sass/css.scss */
+#sofa {
+  position: absolute;
+  left: 540px;
+  top: 300px;
+  z-index: 3;
+}
+
+/* line 68, ../sass/css.scss */
+#rug {
+  position: absolute;
+  left: 380px;
+  top: 460px;
+  z-index: 1;
+}
+
+/* line 81, ../sass/css.scss */
+#table {
+  position: absolute;
+  left: 570px;
+  top: 460px;
+  z-index: 5;
+}
+
+/* line 95, ../sass/css.scss */
+#sign {
+  position: absolute;
+  left: 820px;
+  top: 50px;
+  z-index: 15;
+}
+
+/* line 108, ../sass/css.scss */
+#doorl {
+  position: absolute;
+  left: 380px;
+  top: 10px;
+  z-index: 9;
+}
+
+/* line 121, ../sass/css.scss */
+#doorr {
+  position: absolute;
+  left: 770px;
+  top: 10px;
+  z-index: 9;
+}
+
+/* line 134, ../sass/css.scss */
+#arrow {
+  position: absolute;
+  left: 270px;
+  top: 530px;
+  z-index: 9;
+}
+
+/* line 151, ../sass/css.scss */
+h2 {
+  color: purple;
+}
+
+/* line 155, ../sass/css.scss */
+#scroll {
+  position: absolute;
+  left: 50px;
+  top: 0px;
+  z-index: 1;
+}

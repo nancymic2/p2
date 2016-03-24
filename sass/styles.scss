@@ -38,12 +38,16 @@ body {
 
 width: 43%;
 @include bgcol(left);
+border: 2px solid red;
+border-radius: 45px;
 }
 
 .rightdiv {
 
 width: 43%;
 @include bgcol(right);
+border: 2px solid red;
+border-radius: 45px;
 }
 
 h3 {
