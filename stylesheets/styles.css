@@ -420,6 +420,7 @@ img {
 
   /* line 347, ../sass/styles.scss */
   #home {
+    height: 6em !important;
     padding: 2em;
     padding-left: 2em;
     padding-right: 2em;
