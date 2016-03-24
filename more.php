@@ -37,6 +37,7 @@ Blockin' out the scenery, breakin' my mind.</p>
 <div class="rightdiv">
 <h3>Left Signs</h3>
 <p>Note that I am running out of things to write after writing all the content, so this is an oldie. A song about signs. Got the lyrics here <a href="http://www.oldielyrics.com/lyrics/five_man_electrical_band/signs.html">oldielyrics.com/lyrics/five_man_electrical_band/signs.html</a></p>
+<p>These signs are from a recent trip to Nice and Monaco.</p>
 <p id="par2"> 
 Do this, don't do that, can't you read the sign?
 Now, hey you, mister, can't you read?
