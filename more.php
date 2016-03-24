@@ -14,7 +14,7 @@
  
 <div class="leftdiv">
 <h4>Right Signs</h4>
-<p>I like to take pictures of signs when I travel. Needing to make some example page, this is what I came up with.</p>
+<p>I like to take pictures of signs when I travel. Needing to make some example page, this is what I came up with. They are a good reminder of where you were.</p>
 <p id="par1">And the sign said "Long-haired freaky people need not apply"
 So I tucked my hair up under my hat and I went in to ask him why
 He said "You look like a fine upstanding young man, I think you'll do"
