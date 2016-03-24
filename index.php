@@ -9,8 +9,8 @@
 	 <?php include("head.php"); ?> 
  	<div id="middle">
 
-   		<div id="home" class="hundred">As it turns out, I like pictures. Perhaps I'm tired of reading and writing. So take a look at some of my travel photos, and give your eyes a break.<br>
-        The header is two photos from store windows in Geneva.<br>
+   		<div id="home" class="hundred">As it turns out, I like pictures. Perhaps I'm tired of reading and writing. So take a look at some of my travel photos, and give your eyes a break. 
+       
         As a big sailing fan, water and boats figure prominently in photos I take, so here's a favorite from the port in Nice last week:
    		</div>
 
