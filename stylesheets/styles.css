@@ -469,7 +469,7 @@ img {
 
   /* line 385, ../sass/styles.scss */
   #home {
-    height: 11em;
+    height: 9em !important;
     padding-left: 2em;
     padding-right: 2em;
     font-size: .9em;
