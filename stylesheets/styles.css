@@ -390,7 +390,7 @@ img {
 
   /* line 318, ../sass/styles.scss */
   #home {
-    height: 10em;
+    height: 8em;
     padding: 2em;
     padding-left: 6em;
     padding-right: 6em;
@@ -420,7 +420,6 @@ img {
 
   /* line 347, ../sass/styles.scss */
   #home {
-    height: 8em;
     padding: 2em;
     padding-left: 2em;
     padding-right: 2em;
@@ -572,7 +571,7 @@ img {
 
   /* line 477, ../sass/styles.scss */
   #home {
-    height: 10em;
+    height: 12em;
     padding: 2em;
     font-size: 1em;
   }
