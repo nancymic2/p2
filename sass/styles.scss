@@ -40,9 +40,9 @@ body {
 width: 43%;
 @include bgcol(left);
 border: 2px solid red;
-@include border-radius(45px);
+ @include border-left-radius(35px);
 @include box-shadow(black 7px 7px 10px);
-margin-bottom: 30px;
+
 }
 
 .rightdiv {
@@ -50,7 +50,7 @@ margin-bottom: 30px;
 width: 43%;
 @include bgcol(right);
 border: 3px solid red;
-@include border-radius(35px);
+ @include border-right-radius(35px);
 
 }
 
