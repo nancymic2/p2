@@ -70,7 +70,7 @@
  	     <div class="middle">
 	 	    <div  class="third"><p>This is Oxford Street in the middle of London. During the holiday season, it is one of the first streets decorated. This was a warm night in November.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>On Oxford Street is Selfridge's, made famous here n the PBS series called Mr. Selfridge. Last year when we were there there was a gold Paddington Bear in the window.</p>
+	 	    <div class="third bord"><p>On Oxford Street is Selfridge's, made famous here in the PBS series called Mr. Selfridge. Last year when we were there there was a gold Paddington Bear in the window.</p>
 
 	 	    </div>
 	 	  <div class="third"><p>Oxford Street has lots of shopping as well, including lots of well-known stores, but not Harrods.</p>
