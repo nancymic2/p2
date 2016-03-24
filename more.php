@@ -30,9 +30,9 @@ interdum quisque torquent mattis elementum imperdiet dui, viverra molestie per e
  vitae lectus habitasse sodales inceptos, massa venenatis pharetra mollis morbi suspendisse at vel erat, ut nisl pulvinar interdum ultricies interdum per auctor egestas. Consequat dictum cursus consectetur ut lectus scelerisque felis sem, consequat in netus scelerisque ut nullam amet accumsan, augue consectetur nunc aenean porta aptent sodales. Auctor magna eget torquent eget mauris hendrerit vestibulum nulla mattis, lectus consequat non curae sapien est sodales. Elit consequat mattis convallis aliquet phasellus. Tharetra ad, dictumst eleifend dui nam sollicitudin, cubilia dolor vulputate mattis vivamus.</p>
 </div>
 
-    </div>
+
     <?php include("footer.php"); ?> 
-</div>
+</div></div>
 
 </body></html> 
  
