@@ -42,7 +42,7 @@ width: 43%;
 border: 2px solid red;
 @include border-left-radius(45px);  /*COMAPSS */
 @include box-shadow(black 7px 7px 10px);  /*COMAPSS */
-margin-bottom: 30px;
+margin-bottom: 30px !important;
 
 }
 
