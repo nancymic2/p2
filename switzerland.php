@@ -10,7 +10,7 @@
  	<div id="middle">
  		<div class="hundred title" id="titlebar">Switzerland</div>
 <div class="hundred">
-			<img src="images/rhoneGeneva2.jpg">
+			<img src="images/rhoneGeneva2.jpg" alt="switzerland">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third">
@@ -28,7 +28,7 @@
 	 	    </div>
  		</div>
  	    <div class="hundred">
-		<img src="images/boat.jpg">
+		<img src="images/boat.jpg" alt="switzerland">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third">
@@ -45,7 +45,7 @@
  		</div>
 		
  		<div class="hundred">
-		<img src="images/casino.jpg">
+		<img src="images/casino.jpg" alt="switzerland">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third">
@@ -75,7 +75,7 @@ It seemed that we would lose the race.</p>
 	 	    </div>
  		</div>
  		<div class="hundred">
-			<img src="images/montreux.jpg">
+			<img src="images/montreux.jpg" alt="switzerland">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third">
@@ -96,7 +96,7 @@ Smoke on the water...</a></p>
 home to a number of music festivals.<br>This is the Grand Hotel, and the Casino above is the rebuilt casino. It's all true.</p></div>
  		</div>
 <div class="hundred">
-			<img src="images/un.jpg">
+			<img src="images/un.jpg" alt="switzerland">
  	    </div>
  	    <div class="middle">
 	 	    <div  class="third">
@@ -112,7 +112,7 @@ home to a number of music festivals.<br>This is the Grand Hotel, and the Casino 
 	 	    </div>
  		</div>
 		<div class="hundred">
-			<img src="images/carouges.jpg">
+			<img src="images/carouges.jpg" alt="switzerland">
  	    </div>
  	     <div class="middle">
 	 	    <div  class="third">
