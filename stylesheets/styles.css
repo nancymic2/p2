@@ -43,9 +43,12 @@ body {
   font-size: .8em;
   padding: 10px;
   border: 2px solid red;
-  -moz-border-radius: 45px;
-  -webkit-border-radius: 45px;
-  border-radius: 45px;
+  -moz-border-radius-topleft: 35px;
+  -webkit-border-top-left-radius: 35px;
+  border-top-left-radius: 35px;
+  -moz-border-radius-bottomleft: 35px;
+  -webkit-border-bottom-left-radius: 35px;
+  border-bottom-left-radius: 35px;
   -moz-box-shadow: black 7px 7px 10px;
   -webkit-box-shadow: black 7px 7px 10px;
   box-shadow: black 7px 7px 10px;
@@ -64,9 +67,12 @@ body {
   margin-right: 40px;
   margin-bottom: 13px;
   border: 3px solid red;
-  -moz-border-radius: 35px;
-  -webkit-border-radius: 35px;
-  border-radius: 35px;
+  -moz-border-radius-topright: 35px;
+  -webkit-border-top-right-radius: 35px;
+  border-top-right-radius: 35px;
+  -moz-border-radius-bottomright: 35px;
+  -webkit-border-bottom-right-radius: 35px;
+  border-bottom-right-radius: 35px;
 }
 
 /* line 57, ../sass/styles.scss */

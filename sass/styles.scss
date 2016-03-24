@@ -40,7 +40,7 @@ body {
 width: 43%;
 @include bgcol(left);
 border: 2px solid red;
- @include border-left-radius(35px);
+ @include border-radius(45px);
 @include box-shadow(black 7px 7px 10px);
 
 }
@@ -50,7 +50,7 @@ border: 2px solid red;
 width: 43%;
 @include bgcol(right);
 border: 3px solid red;
- @include border-right-radius(35px);
+@include border-radius(35px);
 
 }
 
