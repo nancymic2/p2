@@ -572,7 +572,7 @@ img {
 
   /* line 477, ../sass/styles.scss */
   #home {
-    height: 10em;
+    height: 10em !important;
     padding: 2em;
     font-size: 1em;
   }
