@@ -80,13 +80,13 @@ line-height: 98%;
 .right {
   float: right;
   padding: 7px;
-   @include opacity(0.7);
+   @include opacity(0.7); /*COMAPSS */
 }
 
 .left {
   float: left;
   padding: 7px;
-   @include opacity(0.9);
+   @include opacity(0.9); /*COMAPSS */
 }
 #home {
   height: 10em;
