@@ -76,12 +76,12 @@
 			<img src="images/varenna.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><p>This is Lake Como. This was a fun week. You can get between the towns by boat all day long and you feel like you can reach out and tough the Aples here.</p>
+	 	    <div  class="third"><p>This is Lake Como. This was a fun week. You can get between the towns by boat all day long and you feel like you can reach out and touch the Alpes here.</p>
 	 	    </div>
 	 	    <div class="third bord"><p>The ferries are a good price, like 20 euros for the day and if you like zipping around on the water, it's a good deal.</p>
 
 	 	    </div>
-	 	  <div class="third"><p>The biggest popular town is probably Bellagio. It is at the other end of the lake from Como where the train ends so you can either take a fabulous bus ride over the cliffs, a slow ferry, or a fast ferry. It's an hour basically. It's a long lake.</p>
+	 	  <div class="third"><p>The biggest, most popular town is probably Bellagio. It is at the other end of the lake from Como where the train ends so you can either take a fabulous bus ride over the cliffs, a slow ferry, or a fast ferry. It's an hour basically. It's a long lake.</p>
 	 	    </div>
  		</div>
 

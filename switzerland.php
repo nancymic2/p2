@@ -24,7 +24,7 @@
 
 	 	    </div>
 	 	  	<div class="third"><p>Lake Geneva is split down the middle between France and Switzerland. Geneva has great transportation and the
-	 	  	airport is about 15 minutes on very nice trains from the city center. Very nice feature. However</p>
+	 	  	airport is about 15 minutes on very nice trains from the city center. Very nice feature.</p>
 	 	    </div>
  		</div>
  	    <div class="hundred">
@@ -35,7 +35,7 @@
 	 	    	<p>This is Montreux, as are two photos below. They refer to it as the Swiss Riviera, and with good reason as you can see. Sans
 	 	    		the ocean beaches.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>Those are the Apls. I am in love with the Alpes. From my hotel in Geneva, and everywhere, you
+	 	    <div class="third bord"><p>Those are the Alpes. I am in love with the Alpes. From my hotel in Geneva, and everywhere, you
 	 	    	can see Mont Blanc.</p>
 	 	    </div>
 	 	    <div class="third"><p>
