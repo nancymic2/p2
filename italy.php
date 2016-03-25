@@ -40,9 +40,9 @@
 		<img src="images/vernazza.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><p>This is Vernazza. Because I was not able to fly over it like the owner of <a href="https://en.wikipedia.org/wiki/Vernazza#/media/File:Vernazza,_Cinque_Terre_(panorama).jpg" target="_blank">this photo on wikipedia</a> was likely able to do, my photo is not as amazing.</p>
+	 	    <div  class="third"><p>This is Vernazza, one of the Cinque Terre (fiev lands). Because I was not able to fly over it like the owner of <a href="https://en.wikipedia.org/wiki/Vernazza#/media/File:Vernazza,_Cinque_Terre_(panorama).jpg" target="_blank">this photo on wikipedia</a> was likely able to do, my photo is not as amazing.</p>
 	 	    </div>
-	 	    <div class="third bord"><p>If you check out the wikipedia photo you will see how Vernazza just jets out into the Ligurian Sea.</p>
+	 	    <div class="third bord"><p>If you check out the wikipedia photo you will see how Vernazza just juts out into the Ligurian Sea. A few years ago it was almost completely destroyed by floods.</p>
 
 	 	    </div>
 	 	    <div class="third"><p>This entire area is just incredible. It's hard to get to, but there are trains to each of the villages in the Cinque Terre.</p>
@@ -76,7 +76,7 @@
 			<img src="images/varenna.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third">This is Lake Como. This was a fun week. You can get between the towns by boat all day long and you feel like you can reach out and tough the Aples here.
+	 	    <div  class="third"><p>This is Lake Como. This was a fun week. You can get between the towns by boat all day long and you feel like you can reach out and tough the Aples here.</p>
 	 	    </div>
 	 	    <div class="third bord"><p>The ferries are a good price, like 20 euros for the day and if you like zipping around on the water, it's a good deal.</p>
 
