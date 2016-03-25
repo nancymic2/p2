@@ -18,7 +18,7 @@
 					close to the border of Switzerland...a little like the Texarcana of Western Europe. Not!</p>
 	 	    </div>
 	 	    <div class="third bord"><p>The photo does not do the mountain justice. It can be seen from everywhere. It is the highest in the
-	 	    Alps and western Europe. It is over 17,000 feet at its summit. </p>
+	 	    Alpes and western Europe. It is over 17,000 feet at its summit. </p>
 
 	 	    </div>
 	 	    <div class="third"><p>There is a cable car from Chamonix to Aiguille du Midi, which itself is 12,000 feet. The ride takes about 
@@ -40,7 +40,7 @@
 	 	     the background. One day I want to create a collection of European arches. But L'arc De Triomphe is really beautiful.</p>
 
 	 	    </div>
-	 	    <div class="third"><p>All in all, it's a nice stroll down the Chaps Elysees towards the Arc De Triomphe. Yes it's similar to 
+	 	    <div class="third"><p>All in all, it's a nice stroll down the Champs Elysees towards the Arc De Triomphe. Yes it's similar to 
 	 	    	5th Ave in New York, but it's nicer.</p>
 	 	    </div>
  		</div>
@@ -90,7 +90,7 @@
 
 	 	    </div>
 	 	    <div class="third bord"><p>To the right of Fourviere is NOT the Eiffel Tower! But it was intended to look like it. 
-	 	    Apparently in the 1800s Lyon was having an identity crisis and wanted to be more like Paris.</p>
+	 	    Apparently in the late 1800s Lyon was having an identity crisis and wanted to be more like Paris.</p>
 
 	 	    </div>
 	 	  <div class="third"><p>The huge public spaces in Europe, of which this is one, always amaze me. It also looks a 

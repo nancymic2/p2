@@ -40,7 +40,7 @@
 		<img src="images/vernazza.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><p>This is Vernazza, one of the Cinque Terre (fiev lands). Because I was not able to fly over it like the owner of <a href="https://en.wikipedia.org/wiki/Vernazza#/media/File:Vernazza,_Cinque_Terre_(panorama).jpg" target="_blank">this photo on wikipedia</a> was likely able to do, my photo is not as amazing.</p>
+	 	    <div  class="third"><p>This is Vernazza, one of the Cinque Terre (five lands). Because I was not able to fly over it like the owner of <a href="https://en.wikipedia.org/wiki/Vernazza#/media/File:Vernazza,_Cinque_Terre_(panorama).jpg" target="_blank">this photo on wikipedia</a> was likely able to do, my photo is not as amazing.</p>
 	 	    </div>
 	 	    <div class="third bord"><p>If you check out the wikipedia photo you will see how Vernazza just juts out into the Ligurian Sea. A few years ago it was almost completely destroyed by floods.</p>
 
@@ -57,14 +57,14 @@
 	 	    <div class="third bord"><p>I might have mentioned that I love classical architecture, and what is more classical than bits of Corinthian columns.</p>
 
 	 	    </div>
-	 	  <div class="third"><p>There are lots of excellent views like from Piazza Venezia in the center of Rome.</p>
+	 	  <div class="third"><p>There are lots of excellent views like this from Piazza Venezia in the center of Rome.</p>
 	 	    </div>
  		</div>
  				<div class="hundred">
 			<img src="images/piazzaduomo.jpg" alt="italy">
  	    </div>
  	     <div class="middle">
-	 	    <div  class="third"><p>This was taken in Piazza Duomo in Milan. On this particular day there was this woman who seemed to have all the pidgeons under her spell.</p>
+	 	    <div  class="third"><p>This was taken in Piazza Duomo in Milan. On this particular day there was this woman who seemed to have all the pigeons under her spell.</p>
 	 	    </div>
 	 	    <div class="third bord"><p>As cities go, Milan is nice. It has nowhere near the amount of public art that Rome has though.</p>
 
