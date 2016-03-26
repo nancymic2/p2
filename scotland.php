@@ -10,7 +10,7 @@
  	<div id="middle">
 <div class="hundred title" id="titlebar">Scotland</div>
  	    <div class="hundred">
-		<img src="images/crescent.jpg" alt="scotland"
+		<img src="images/crescentSmall.jpg" alt="scotland"
 			 class="serveImg" data-small="images/crescentSmall.jpg" 
 			data-large="images/crescent.jpg" 
 			data-med="images/crescentMed.jpg">
@@ -31,7 +31,7 @@
  		</div>
 
  		<div class="hundred">
-		<img src="images/northSea.jpg" 	alt="scotland"		
+		<img src="images/northSeaSmall.jpg" 	alt="scotland"		
 			 class="serveImg" data-small="images/northSeaSmall.jpg" 
 			data-large="images/northSea.jpg" 
 			data-med="images/northSeaMed.jpg">
@@ -49,7 +49,7 @@
 	 	    </div>
  		</div>
  				<div class="hundred">
-			<img src="images/britannia.jpg"			
+			<img src="images/britanniaSmall.jpg"			
 			 class="serveImg" data-small="images/britanniaSmall.jpg" 
 			data-large="images/britannia.jpg" 
 			data-med="images/britanniaMed.jpg" alt="scotland">
@@ -65,7 +65,7 @@
 	 	  	posted them.</p></div>
  		</div>
 		<div class="hundred">
-			<img src="images/jenners.jpg" alt="scotland"
+			<img src="images/jennersSmall.jpg" alt="scotland"
 			 class="serveImg" data-small="images/jennersSmall.jpg" data-large="images/jenners.jpg" data-med="images/jennersMed.jpg">
  	    </div>
  	     <div class="middle">
