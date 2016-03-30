@@ -99,9 +99,7 @@
  		</div>
 
     </div>
-<?php include("footer.php"); ?> 
-</div>
+<?php include("italyend.php"); ?> 
 
-</body></html> 
  
 
